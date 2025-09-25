@@ -1,8 +1,8 @@
 {
   "id": "15853e3a-3ca3-4f6c-b2de-7459aeb2e903",
   "default_locale": "en",
-  "title": "Template for Dolorum",
-  "short_description": "That's my thing right now. ",
+  "title": "Participatory Budget",
+  "short_description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus ",
   "version": "Second version",
   "author": "Hadrien Froger",
   "links": [
@@ -12,6 +12,6 @@
   "community_template_version": "0.0.1",
   "decidim_version": "0.30.1",
   "archived_at": null,
-  "updated_at": "2025-09-25T13:25:17.002Z",
-  "created_at": "2025-09-25T13:25:17.001Z"
+  "updated_at": "2025-09-25T13:42:43.072Z",
+  "created_at": "2025-09-25T13:42:43.068Z"
 }
