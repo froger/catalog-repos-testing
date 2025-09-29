@@ -1,0 +1,87 @@
+{
+  "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35",
+  "class": "Decidim::ParticipatoryProcess",
+  "original_id": 1,
+  "attributes": {
+    "title": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.title",
+    "description": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.description",
+    "components": [
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.1",
+        "class": "Decidim::Component",
+        "original_id": 1,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.1.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.2",
+        "class": "Decidim::Component",
+        "original_id": 2,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.2.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.3",
+        "class": "Decidim::Component",
+        "original_id": 3,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.3.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.4",
+        "class": "Decidim::Component",
+        "original_id": 4,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.4.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.5",
+        "class": "Decidim::Component",
+        "original_id": 5,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.5.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.6",
+        "class": "Decidim::Component",
+        "original_id": 6,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.6.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.7",
+        "class": "Decidim::Component",
+        "original_id": 7,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.7.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.8",
+        "class": "Decidim::Component",
+        "original_id": 8,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.8.attributes.name"
+        }
+      },
+      {
+        "id": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.9",
+        "class": "Decidim::Component",
+        "original_id": 9,
+        "attributes": {
+          "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.attributes.components.9.attributes.name"
+        }
+      }
+    ]
+  },
+  "name": "61116e7b-78eb-4da3-91fe-3024a3f06e35.metadata.name",
+  "decidim_version": "0.30.1",
+  "community_templates_version": "0.0.1",
+  "version": "V1.9"
+}
