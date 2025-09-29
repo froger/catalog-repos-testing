@@ -1,0 +1,18 @@
+{
+  "id": "28f34781-aebe-4ec8-85a1-ea6a78c5daf7",
+  "default_locale": "en",
+  "title": "This is a valid title",
+  "short_description": "Just an a valid form",
+  "version": "V0.0.1",
+  "author": "Capybara",
+  "links": [
+    "https://firstvalid.com",
+    "https://secondvalid.com"
+  ],
+  "source_type": "Decidim::ParticipatoryProcess",
+  "community_template_version": "0.0.1",
+  "decidim_version": "0.30.1",
+  "archived_at": null,
+  "updated_at": "2025-09-29T11:42:28.209Z",
+  "created_at": "2025-09-29T11:42:28.204Z"
+}
