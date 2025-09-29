@@ -1,64 +1,34 @@
 ---
 en:
   15853e3a-3ca3-4f6c-b2de-7459aeb2e903:
-    metadata:
-      name: {}
-      description: {}
     attributes:
       title: Dolorum et nemo id ut.
       description: "<p>Aut labore veritatis. Quam sit sint. Sed error possimus.</p>"
       components:
         '1':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Accountability
         '2':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Blog
         '3':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Budgets
         '4':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Debates
         '5':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Meetings
         '6':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Page
         '7':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Proposals
         '8':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Sortitions
         '9':
-          metadata:
-            name: {}
-            description: {}
           attributes:
             name: Surveys
