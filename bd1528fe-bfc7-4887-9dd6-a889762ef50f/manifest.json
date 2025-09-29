@@ -1,0 +1,15 @@
+{
+  "id": "bd1528fe-bfc7-4887-9dd6-a889762ef50f",
+  "default_locale": "en",
+  "title": "numquam",
+  "short_description": "Et enim praesentium quisquam.",
+  "version": "aut",
+  "author": "Angel Feeney PhD",
+  "links": [],
+  "source_type": "Decidim::ParticipatoryProcess",
+  "community_template_version": "0.0.1",
+  "decidim_version": "0.30.1",
+  "archived_at": null,
+  "updated_at": "2025-09-26T08:39:47.011Z",
+  "created_at": "2025-09-26T08:39:47.008Z"
+}
