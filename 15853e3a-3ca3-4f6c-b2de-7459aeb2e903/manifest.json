@@ -6,13 +6,12 @@
   "version": "Second version",
   "author": "Hadrien Froger",
   "links": [
-    "https://github.com/hfroger",
-    "https://google.com"
+    "https://github.com/jfroger"
   ],
   "source_type": "Decidim::ParticipatoryProcess",
   "community_template_version": "0.0.1",
   "decidim_version": "0.30.1",
   "archived_at": null,
-  "updated_at": "2025-09-29T11:13:42.100Z",
-  "created_at": "2025-09-29T11:13:42.099Z"
+  "updated_at": "2025-09-29T11:14:11.993Z",
+  "created_at": "2025-09-29T11:14:11.992Z"
 }
