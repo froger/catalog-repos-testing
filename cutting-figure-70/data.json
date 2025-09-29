@@ -1,0 +1,13 @@
+{
+  "id": "cutting-figure-70",
+  "class": "Decidim::ParticipatoryProcess",
+  "original_id": 4552,
+  "attributes": {
+    "title": "cutting-figure-70.attributes.title",
+    "description": "cutting-figure-70.attributes.description",
+    "components": []
+  },
+  "decidim_version": "0.30.1",
+  "community_templates_version": "0.0.1",
+  "version": "Facere tempore dolorum velit."
+}
