@@ -1,69 +1,69 @@
 {
   "id": "a1844437-c17a-4547-8352-3cf509f1040b",
-  "class": "Decidim::ParticipatoryProcess",
+  "@class": "Decidim::ParticipatoryProcess",
   "attributes": {
     "title": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.title",
     "description": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.description",
     "components": [
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.accountability_1",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.accountability_1.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.blogs_2",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.blogs_2.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.budgets_3",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.budgets_3.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.debates_4",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.debates_4.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.meetings_5",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.meetings_5.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.pages_6",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.pages_6.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.proposals_7",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.proposals_7.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.sortitions_8",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.sortitions_8.attributes.name"
         }
       },
       {
         "id": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.surveys_9",
-        "class": "Decidim::Component",
+        "@class": "Decidim::Component",
         "attributes": {
           "name": "a1844437-c17a-4547-8352-3cf509f1040b.attributes.components.surveys_9.attributes.name"
         }
