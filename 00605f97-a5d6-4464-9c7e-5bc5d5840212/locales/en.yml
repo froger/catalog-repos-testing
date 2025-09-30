@@ -33,5 +33,5 @@ en:
           attributes:
             name: Surveys
     metadata:
-      name: This is a template
+      name: I edit the template only in the main locale
       description: 'This is a short description. '
