@@ -1,0 +1,90 @@
+{
+  "id": "707e8041-8439-4db2-b50f-d410ff22412e",
+  "@class": "Decidim::ParticipatoryProcess",
+  "attributes": {
+    "title": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.title",
+    "description": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.description",
+    "components": [
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.accountability_1",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.accountability_1.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.blogs_2",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.blogs_2.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.budgets_3",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.budgets_3.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.debates_4",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.debates_4.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.meetings_5",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.meetings_5.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.pages_6",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.pages_6.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.proposals_7",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.proposals_7.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.sortitions_8",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.sortitions_8.attributes.name"
+        }
+      },
+      {
+        "id": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.surveys_9",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "name": "707e8041-8439-4db2-b50f-d410ff22412e.attributes.components.surveys_9.attributes.name"
+        }
+      }
+    ]
+  },
+  "name": "707e8041-8439-4db2-b50f-d410ff22412e.metadata.name",
+  "description": "707e8041-8439-4db2-b50f-d410ff22412e.metadata.description",
+  "id": "707e8041-8439-4db2-b50f-d410ff22412e",
+  "default_locale": "en",
+  "version": "v0.1.2 template",
+  "author": "Hadrien Froger",
+  "links": [
+    "https://github.com"
+  ],
+  "@class": "Decidim::ParticipatoryProcess",
+  "community_template_version": "0.0.1",
+  "decidim_version": "0.30.1",
+  "archived_at": null,
+  "updated_at": "2025-09-30 05:29:15 UTC",
+  "created_at": "2025-09-30 05:29:15 UTC",
+  "decidim_version": "0.30.1",
+  "community_templates_version": "0.0.1"
+}
