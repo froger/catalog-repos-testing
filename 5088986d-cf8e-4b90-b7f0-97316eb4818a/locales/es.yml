@@ -1,0 +1,28 @@
+---
+es:
+  5088986d-cf8e-4b90-b7f0-97316eb4818a:
+    attributes:
+      title: <script>alert("participatory_process_title");</script> Nemo velit iure.
+        5887
+      subtitle: <script>alert("participatory_process_subtitle");</script> Alias quibusdam
+        non. 5891
+      short_description: <p><script>alert("participatory_process_short_description");</script>
+        Sapiente facere sint. 5895</p>
+      description: <p><script>alert("participatory_process_description");</script>
+        Saepe inventore aut. 5899</p>
+      announcement: <script>alert("participatory_process_announcement");</script>
+        Maiores expedita et. 5923
+      developer_group: <script>alert("participatory_process_developer_group");</script>
+        A illo ratione. 5903
+      local_area: <script>alert("participatory_process_local_area");</script> Dolorem
+        tempore sint. 5907
+      meta_scope: <script>alert("participatory_process_meta_scope");</script> sunt
+      target: <script>alert("participatory_process_target");</script> Ut provident
+        mollitia. 5911
+      participatory_scope: <script>alert("participatory_process_participatory_scope");</script>
+        Eius est sed. 5915
+      participatory_structure: <script>alert("participatory_process_participatory_structure");</script>
+        Fuga minima recusandae. 5919
+    metadata:
+      name: aut
+      description: Ratione molestias quia id.
