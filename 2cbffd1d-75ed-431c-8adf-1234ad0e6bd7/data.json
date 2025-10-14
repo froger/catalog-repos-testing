@@ -8,8 +8,8 @@
     "short_description": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.short_description",
     "description": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.description",
     "announcement": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.announcement",
-    "start_date_relative": 66514,
-    "end_date_relative": -5203886,
+    "start_date_relative": -66946,
+    "end_date_relative": 5203454,
     "developer_group": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.developer_group",
     "local_area": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.local_area",
     "meta_scope": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.meta_scope",
@@ -63,7 +63,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 158
+          "published_at_relative": -590
         }
       },
       {
@@ -112,7 +112,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 102
+          "published_at_relative": -534
         }
       },
       {
@@ -221,7 +221,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 94
+          "published_at_relative": -526
         }
       },
       {
@@ -278,7 +278,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 88
+          "published_at_relative": -520
         }
       },
       {
@@ -343,7 +343,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 86
+          "published_at_relative": -518
         }
       },
       {
@@ -368,7 +368,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 71
+          "published_at_relative": -503
         }
       },
       {
@@ -564,7 +564,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 71
+          "published_at_relative": -503
         }
       },
       {
@@ -592,7 +592,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 58
+          "published_at_relative": -490
         }
       },
       {
@@ -617,7 +617,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": 58
+          "published_at_relative": -490
         }
       }
     ],
@@ -632,7 +632,7 @@
           "settings": [],
           "weight": 10,
           "images_container": {},
-          "published_at_relative": 159
+          "published_at_relative": -591
         }
       },
       {
@@ -644,7 +644,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": 159
+          "published_at_relative": -591
         }
       },
       {
@@ -667,7 +667,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": 159
+          "published_at_relative": -591
         }
       },
       {
@@ -679,7 +679,7 @@
           "settings": [],
           "weight": 40,
           "images_container": {},
-          "published_at_relative": 159
+          "published_at_relative": -591
         }
       },
       {
@@ -700,7 +700,7 @@
           ],
           "weight": 50,
           "images_container": {},
-          "published_at_relative": 159
+          "published_at_relative": -591
         }
       },
       {
@@ -721,7 +721,7 @@
           ],
           "weight": 60,
           "images_container": {},
-          "published_at_relative": 159
+          "published_at_relative": -591
         }
       },
       {
@@ -744,7 +744,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": 158
+          "published_at_relative": -590
         }
       },
       {
@@ -756,7 +756,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": 158
+          "published_at_relative": -590
         }
       },
       {
@@ -768,7 +768,7 @@
           "settings": [],
           "weight": 30,
           "images_container": {},
-          "published_at_relative": 158
+          "published_at_relative": -590
         }
       }
     ],
@@ -779,8 +779,8 @@
         "attributes": {
           "title": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.steps.20251014182555.attributes.title",
           "description": "2cbffd1d-75ed-431c-8adf-1234ad0e6bd7.attributes.steps.20251014182555.attributes.description",
-          "start_date_relative": 2592159,
-          "end_date_relative": -5270241
+          "start_date_relative": -2592591,
+          "end_date_relative": 5269809
         }
       }
     ]
@@ -796,8 +796,8 @@
   "community_templates_version": "0.0.1",
   "decidim_version": "0.30.1",
   "archived_at": null,
-  "updated_at": "2025-10-14 18:28:34 UTC",
-  "created_at": "2025-10-14 18:28:34 UTC",
+  "updated_at": null,
+  "created_at": "2025-10-14T18:35:46.170Z",
   "decidim_version": "0.30.1",
   "community_templates_version": "0.0.1"
 }
