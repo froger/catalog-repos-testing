@@ -8,8 +8,8 @@
     "short_description": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.short_description",
     "description": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.description",
     "announcement": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.announcement",
-    "start_date_relative": -81526,
-    "end_date_relative": 5188874,
+    "start_date_relative": -81597,
+    "end_date_relative": 5188803,
     "developer_group": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.developer_group",
     "local_area": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.local_area",
     "meta_scope": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.meta_scope",
@@ -63,7 +63,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5281
+          "published_at_relative": -5352
         }
       },
       {
@@ -112,7 +112,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5219
+          "published_at_relative": -5290
         }
       },
       {
@@ -221,7 +221,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5210
+          "published_at_relative": -5281
         }
       },
       {
@@ -278,7 +278,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5207
+          "published_at_relative": -5278
         }
       },
       {
@@ -343,7 +343,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5206
+          "published_at_relative": -5277
         }
       },
       {
@@ -368,7 +368,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5181
+          "published_at_relative": -5252
         }
       },
       {
@@ -564,7 +564,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5181
+          "published_at_relative": -5252
         }
       },
       {
@@ -592,7 +592,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5158
+          "published_at_relative": -5229
         }
       },
       {
@@ -617,7 +617,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5158
+          "published_at_relative": -5229
         }
       }
     ],
@@ -632,7 +632,7 @@
           "settings": [],
           "weight": 10,
           "images_container": {},
-          "published_at_relative": -5282
+          "published_at_relative": -5353
         }
       },
       {
@@ -644,7 +644,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -5282
+          "published_at_relative": -5353
         }
       },
       {
@@ -667,7 +667,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -5282
+          "published_at_relative": -5353
         }
       },
       {
@@ -679,7 +679,7 @@
           "settings": [],
           "weight": 40,
           "images_container": {},
-          "published_at_relative": -5282
+          "published_at_relative": -5353
         }
       },
       {
@@ -700,7 +700,7 @@
           ],
           "weight": 50,
           "images_container": {},
-          "published_at_relative": -5282
+          "published_at_relative": -5353
         }
       },
       {
@@ -721,7 +721,7 @@
           ],
           "weight": 60,
           "images_container": {},
-          "published_at_relative": -5282
+          "published_at_relative": -5353
         }
       },
       {
@@ -744,7 +744,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -5281
+          "published_at_relative": -5352
         }
       },
       {
@@ -756,7 +756,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -5281
+          "published_at_relative": -5352
         }
       },
       {
@@ -768,7 +768,7 @@
           "settings": [],
           "weight": 30,
           "images_container": {},
-          "published_at_relative": -5281
+          "published_at_relative": -5352
         }
       },
       {
@@ -785,7 +785,7 @@
           ],
           "weight": 1,
           "images_container": {},
-          "published_at_relative": -5015
+          "published_at_relative": -5086
         }
       }
     ],
@@ -797,15 +797,15 @@
           "title": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.steps.20251015211045.attributes.title",
           "description": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.attributes.steps.20251015211045.attributes.description",
           "position": 0,
-          "start_date_relative": -2597282,
-          "end_date_relative": 5265118
+          "start_date_relative": -2597353,
+          "end_date_relative": 5265047
         }
       }
     ]
   },
   "name": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.metadata.name",
   "description": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6.metadata.description",
-  "version": "v0.2",
+  "version": "v0.3",
   "id": "eacc5c0e-2a85-4d99-8b15-3e9b519f1aa6",
   "default_locale": "en",
   "author": "asd",
@@ -815,7 +815,7 @@
   "decidim_version": "0.30.1",
   "archived_at": null,
   "updated_at": null,
-  "created_at": "2025-10-15T22:38:46.369Z",
+  "created_at": "2025-10-15T22:39:57.354Z",
   "decidim_version": "0.30.1",
   "community_templates_version": "0.0.1-rc2"
 }
