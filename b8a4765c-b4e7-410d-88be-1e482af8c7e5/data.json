@@ -8,8 +8,8 @@
     "short_description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.short_description",
     "description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.description",
     "announcement": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.announcement",
-    "start_date_relative": -82282,
-    "end_date_relative": 5188118,
+    "start_date_relative": -85397,
+    "end_date_relative": 5185003,
     "developer_group": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.developer_group",
     "local_area": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.local_area",
     "meta_scope": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.meta_scope",
@@ -63,7 +63,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5997,
+          "published_at_relative": -9112,
           "resources": []
         }
       },
@@ -113,7 +113,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5933,
+          "published_at_relative": -9048,
           "resources": []
         }
       },
@@ -223,7 +223,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5922,
+          "published_at_relative": -9037,
           "resources": []
         }
       },
@@ -281,7 +281,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5911,
+          "published_at_relative": -9026,
           "resources": []
         }
       },
@@ -347,7 +347,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5909,
+          "published_at_relative": -9024,
           "resources": []
         }
       },
@@ -373,7 +373,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5884,
+          "published_at_relative": -8999,
           "resources": []
         }
       },
@@ -536,7 +536,7 @@
               },
               {
                 "type": "default_sort_order",
-                "value": null
+                "value": ""
               },
               {
                 "type": "amendment_creation_enabled",
@@ -560,17 +560,17 @@
               },
               {
                 "type": "automatic_hashtags",
-                "value": null
+                "value": ""
               },
               {
                 "type": "suggested_hashtags",
-                "value": null
+                "value": ""
               }
             ]
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5884,
+          "published_at_relative": -8999,
           "resources": [
             {
               "id": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1",
@@ -611,16 +611,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.body",
-                "created_at_relative": -5874,
-                "updated_at_relative": -5873,
+                "created_at_relative": -8989,
+                "updated_at_relative": -8988,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -5874,
+                "answered_at_relative": -8989,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.answer",
                 "reference": "V-PROP-2025-10-4",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5874,
+                "published_at_relative": -8989,
                 "participatory_text_level": null,
                 "position": 4,
                 "endorsements_count": 0,
@@ -639,16 +639,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.body",
-                "created_at_relative": -5870,
-                "updated_at_relative": -5869,
+                "created_at_relative": -8985,
+                "updated_at_relative": -8984,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -5870,
+                "answered_at_relative": -8985,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.answer",
                 "reference": "V-PROP-2025-10-6",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5870,
+                "published_at_relative": -8985,
                 "participatory_text_level": null,
                 "position": 6,
                 "endorsements_count": 0,
@@ -667,8 +667,8 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.body",
-                "created_at_relative": -5874,
-                "updated_at_relative": -5872,
+                "created_at_relative": -8989,
+                "updated_at_relative": -8987,
                 "proposal_votes_count": 2,
                 "answered_at_relative": null,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.answer",
@@ -676,7 +676,7 @@
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5874,
+                "published_at_relative": -8989,
                 "participatory_text_level": null,
                 "position": 3,
                 "endorsements_count": 0,
@@ -695,16 +695,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.body",
-                "created_at_relative": -5878,
-                "updated_at_relative": -5875,
+                "created_at_relative": -8993,
+                "updated_at_relative": -8990,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -5878,
+                "answered_at_relative": -8993,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.answer",
                 "reference": "V-PROP-2025-10-2",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5878,
+                "published_at_relative": -8993,
                 "participatory_text_level": null,
                 "position": 2,
                 "endorsements_count": 0,
@@ -712,7 +712,7 @@
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.cost_report",
                 "execution_period": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.execution_period",
                 "state_id": "proposal_state_3",
-                "state_published_at_relative": -5878,
+                "state_published_at_relative": -8993,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -723,16 +723,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.body",
-                "created_at_relative": -5870,
-                "updated_at_relative": -5869,
+                "created_at_relative": -8985,
+                "updated_at_relative": -8984,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -5870,
+                "answered_at_relative": -8985,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.answer",
                 "reference": "V-PROP-2025-10-5",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5870,
+                "published_at_relative": -8985,
                 "participatory_text_level": null,
                 "position": 5,
                 "endorsements_count": 0,
@@ -751,16 +751,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.body",
-                "created_at_relative": -5866,
-                "updated_at_relative": -5865,
+                "created_at_relative": -8981,
+                "updated_at_relative": -8980,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -5866,
+                "answered_at_relative": -8981,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.answer",
                 "reference": "V-PROP-2025-10-8",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5866,
+                "published_at_relative": -8981,
                 "participatory_text_level": null,
                 "position": 8,
                 "endorsements_count": 0,
@@ -779,8 +779,8 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.body",
-                "created_at_relative": -5866,
-                "updated_at_relative": -5865,
+                "created_at_relative": -8981,
+                "updated_at_relative": -8980,
                 "proposal_votes_count": 1,
                 "answered_at_relative": null,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.answer",
@@ -788,7 +788,7 @@
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5866,
+                "published_at_relative": -8981,
                 "participatory_text_level": null,
                 "position": 7,
                 "endorsements_count": 0,
@@ -807,16 +807,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.body",
-                "created_at_relative": -5884,
-                "updated_at_relative": -5864,
+                "created_at_relative": -8999,
+                "updated_at_relative": -8979,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -5884,
+                "answered_at_relative": -8999,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.answer",
                 "reference": "V-PROP-2025-10-1",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -5884,
+                "published_at_relative": -8999,
                 "participatory_text_level": null,
                 "position": 1,
                 "endorsements_count": 0,
@@ -824,7 +824,7 @@
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.cost_report",
                 "execution_period": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.execution_period",
                 "state_id": "proposal_state_1",
-                "state_published_at_relative": -5884,
+                "state_published_at_relative": -8999,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -857,7 +857,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5863,
+          "published_at_relative": -8978,
           "resources": []
         }
       },
@@ -883,7 +883,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -5863,
+          "published_at_relative": -8978,
           "resources": []
         }
       }
@@ -899,7 +899,7 @@
           "settings": [],
           "weight": 10,
           "images_container": {},
-          "published_at_relative": -5999
+          "published_at_relative": -9114
         }
       },
       {
@@ -911,7 +911,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -5999
+          "published_at_relative": -9114
         }
       },
       {
@@ -934,7 +934,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -5999
+          "published_at_relative": -9114
         }
       },
       {
@@ -946,7 +946,7 @@
           "settings": [],
           "weight": 40,
           "images_container": {},
-          "published_at_relative": -5999
+          "published_at_relative": -9114
         }
       },
       {
@@ -967,7 +967,7 @@
           ],
           "weight": 50,
           "images_container": {},
-          "published_at_relative": -5999
+          "published_at_relative": -9114
         }
       },
       {
@@ -988,7 +988,7 @@
           ],
           "weight": 60,
           "images_container": {},
-          "published_at_relative": -5999
+          "published_at_relative": -9114
         }
       },
       {
@@ -1011,7 +1011,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -5998
+          "published_at_relative": -9113
         }
       },
       {
@@ -1023,7 +1023,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -5998
+          "published_at_relative": -9113
         }
       },
       {
@@ -1035,7 +1035,7 @@
           "settings": [],
           "weight": 30,
           "images_container": {},
-          "published_at_relative": -5998
+          "published_at_relative": -9113
         }
       }
     ],
@@ -1047,8 +1047,8 @@
           "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.steps.participatory_process_step_20251016211123.attributes.title",
           "description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.steps.participatory_process_step_20251016211123.attributes.description",
           "position": 0,
-          "start_date_relative": -2597999,
-          "end_date_relative": 5264401
+          "start_date_relative": -2601114,
+          "end_date_relative": 5261286
         }
       }
     ]
@@ -1065,7 +1065,7 @@
   "decidim_version": "0.30.1",
   "archived_at": null,
   "updated_at": null,
-  "created_at": "2025-10-16T22:51:22.056Z",
+  "created_at": "2025-10-16T23:43:16.736Z",
   "decidim_version": "0.30.1",
   "community_templates_version": "0.0.1-rc3"
 }

@@ -113,14 +113,14 @@ en:
                   cost_report:
                   execution_period:
           global_settings:
-            amendments_wizard_help_text:
-            announcement:
-            new_proposal_body_template:
-            new_proposal_help_text:
-            proposal_wizard_step_1_help_text:
-            proposal_wizard_step_2_help_text:
+            amendments_wizard_help_text: ''
+            announcement: ''
+            new_proposal_body_template: ''
+            new_proposal_help_text: ''
+            proposal_wizard_step_1_help_text: ''
+            proposal_wizard_step_2_help_text: ''
           steps_participatory_process_step_20251016211123_settings:
-            '1':
+            '1': "<p>You can vote !</p>"
         sortitions_sortitions:
           attributes:
             name: Sortitions
