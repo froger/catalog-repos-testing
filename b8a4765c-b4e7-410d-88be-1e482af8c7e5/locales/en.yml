@@ -1,0 +1,104 @@
+---
+en:
+  b8a4765c-b4e7-410d-88be-1e482af8c7e5:
+    attributes:
+      title: Enim sunt doloremque dolor molestiae.
+      subtitle: Aut porro.
+      short_description: "<p>Ab exercitationem officia.</p>"
+      description: "<p>Omnis a explicabo. Doloremque ipsa quis. Harum quia rerum.</p>"
+      announcement:
+      developer_group: Est.
+      local_area: Officiis nostrum.
+      meta_scope: sunt
+      target: Minus impedit nam.
+      participatory_scope: Vel.
+      participatory_structure: Excepturi qui.
+      components:
+        accountability_accountability:
+          attributes:
+            name: Accountability
+          global_settings:
+            intro: "<p>Ut eum aut dignissimos.</p>"
+        blogs_blogs:
+          attributes:
+            name: Blog
+          global_settings:
+            announcement:
+          steps_20251016211123_settings:
+            '1':
+        budgets_budgets:
+          attributes:
+            name: Budgets
+          global_settings:
+            announcement:
+            landing_page_content: "<h2>Non blanditiis aut nisi.</h2><p>Similique quas
+              est. Laudantium qui blanditiis. Numquam a qui.</p><p>Atque sint voluptate.
+              Beatae corrupti eos. Consectetur possimus similique.</p>"
+            more_information_modal: Voluptas autem unde. Nihil molestiae quibusdam.
+              Molestiae rerum voluptates. Nam atque velit.
+          steps_20251016211123_settings:
+            '1':
+        debates_debates:
+          attributes:
+            name: Debates
+          global_settings:
+            announcement:
+          steps_20251016211123_settings:
+            '1':
+        meetings_meetings:
+          attributes:
+            name: Meetings
+          global_settings:
+            announcement:
+            default_registration_terms:
+          steps_20251016211123_settings:
+            '1':
+        pages_pages:
+          attributes:
+            name: Page
+          global_settings:
+            announcement:
+          steps_20251016211123_settings:
+            '1':
+        proposals_proposals:
+          attributes:
+            name: Proposals
+          global_settings:
+            amendments_wizard_help_text:
+            announcement:
+            new_proposal_body_template:
+            new_proposal_help_text:
+            proposal_wizard_step_1_help_text:
+            proposal_wizard_step_2_help_text:
+          steps_20251016211123_settings:
+            '1':
+        sortitions_sortitions:
+          attributes:
+            name: Sortitions
+        surveys_surveys:
+          attributes:
+            name: Surveys
+          global_settings:
+            announcement:
+          steps_20251016211123_settings:
+            '1':
+      content_blocks:
+        participatory_process_group_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+        participatory_process_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+      steps:
+        '20251016211123':
+          attributes:
+            title: Voluptas.
+            description: "<p>Reprehenderit aut occaecati. Laudantium ut animi. Qui
+              eos perspiciatis.</p>"
+    metadata:
+      name: Demo
+      description: 'try to copy to clipboard
+
+        '
