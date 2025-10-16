@@ -24,8 +24,8 @@ en:
             name: Blog
           global_settings:
             announcement:
-          steps_participatory_process_step_20251016211123_settings:
-            '1':
+          steps_settings:
+            participatory_process_step_20251016211123:
         budgets_budgets:
           attributes:
             name: Budgets
@@ -36,30 +36,30 @@ en:
               Beatae corrupti eos. Consectetur possimus similique.</p>"
             more_information_modal: Voluptas autem unde. Nihil molestiae quibusdam.
               Molestiae rerum voluptates. Nam atque velit.
-          steps_participatory_process_step_20251016211123_settings:
-            '1':
+          steps_settings:
+            participatory_process_step_20251016211123:
         debates_debates:
           attributes:
             name: Debates
           global_settings:
             announcement:
-          steps_participatory_process_step_20251016211123_settings:
-            '1':
+          steps_settings:
+            participatory_process_step_20251016211123:
         meetings_meetings:
           attributes:
             name: Meetings
           global_settings:
             announcement:
             default_registration_terms:
-          steps_participatory_process_step_20251016211123_settings:
-            '1':
+          steps_settings:
+            participatory_process_step_20251016211123:
         pages_pages:
           attributes:
             name: Page
           global_settings:
             announcement:
-          steps_participatory_process_step_20251016211123_settings:
-            '1':
+          steps_settings:
+            participatory_process_step_20251016211123:
         proposals_proposals:
           attributes:
             name: Proposals
@@ -119,8 +119,8 @@ en:
             new_proposal_help_text: ''
             proposal_wizard_step_1_help_text: ''
             proposal_wizard_step_2_help_text: ''
-          steps_participatory_process_step_20251016211123_settings:
-            '1': "<p>You can vote !</p>"
+          steps_settings:
+            participatory_process_step_20251016211123: "<p>You can vote !</p>"
         sortitions_sortitions:
           attributes:
             name: Sortitions
@@ -129,8 +129,8 @@ en:
             name: Surveys
           global_settings:
             announcement:
-          steps_participatory_process_step_20251016211123_settings:
-            '1':
+          steps_settings:
+            participatory_process_step_20251016211123:
       content_blocks:
         participatory_process_group_homepage_hero:
           settings:
