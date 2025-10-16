@@ -24,7 +24,7 @@ en:
             name: Blog
           global_settings:
             announcement:
-          steps_20251016211123_settings:
+          steps_participatory_process_step_20251016211123_settings:
             '1':
         budgets_budgets:
           attributes:
@@ -36,14 +36,14 @@ en:
               Beatae corrupti eos. Consectetur possimus similique.</p>"
             more_information_modal: Voluptas autem unde. Nihil molestiae quibusdam.
               Molestiae rerum voluptates. Nam atque velit.
-          steps_20251016211123_settings:
+          steps_participatory_process_step_20251016211123_settings:
             '1':
         debates_debates:
           attributes:
             name: Debates
           global_settings:
             announcement:
-          steps_20251016211123_settings:
+          steps_participatory_process_step_20251016211123_settings:
             '1':
         meetings_meetings:
           attributes:
@@ -51,18 +51,67 @@ en:
           global_settings:
             announcement:
             default_registration_terms:
-          steps_20251016211123_settings:
+          steps_participatory_process_step_20251016211123_settings:
             '1':
         pages_pages:
           attributes:
             name: Page
           global_settings:
             announcement:
-          steps_20251016211123_settings:
+          steps_participatory_process_step_20251016211123_settings:
             '1':
         proposals_proposals:
           attributes:
             name: Proposals
+            proposal_states:
+              proposal_state_1:
+                attributes:
+                  title: Evaluating
+                  announcement_title: This proposal is being evaluated
+              proposal_state_2:
+                attributes:
+                  title: Accepted
+                  announcement_title: 'This proposal has been accepted because:'
+              proposal_state_3:
+                attributes:
+                  title: Rejected
+                  announcement_title: 'This proposal has been rejected because:'
+            proposals:
+              proposal_20251016211328:
+                attributes:
+                  title: Voluptatem voluptatum.
+                  body: Veniam sapiente vel.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251016211332:
+                attributes:
+                  title: Officiis molestias.
+                  body: Aut et occaecati.
+                  answer: Eius rerum nihil iste ut ut expedita nostrum voluptas ducimus.
+                  cost_report:
+                  execution_period:
+              proposal_20251016211324:
+                attributes:
+                  title: Ipsa voluptatem.
+                  body: Neque dolor accusamus.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251016211336:
+                attributes:
+                  title: Quis quaerat.
+                  body: Repudiandae ut ut.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251016211318:
+                attributes:
+                  title: Qui quia.
+                  body: Officia libero dolores.
+                  answer:
+                  cost_report:
+                  execution_period:
           global_settings:
             amendments_wizard_help_text:
             announcement:
@@ -70,7 +119,7 @@ en:
             new_proposal_help_text:
             proposal_wizard_step_1_help_text:
             proposal_wizard_step_2_help_text:
-          steps_20251016211123_settings:
+          steps_participatory_process_step_20251016211123_settings:
             '1':
         sortitions_sortitions:
           attributes:
@@ -80,7 +129,7 @@ en:
             name: Surveys
           global_settings:
             announcement:
-          steps_20251016211123_settings:
+          steps_participatory_process_step_20251016211123_settings:
             '1':
       content_blocks:
         participatory_process_group_homepage_hero:
@@ -92,7 +141,7 @@ en:
             button_text:
             button_url:
       steps:
-        '20251016211123':
+        participatory_process_step_20251016211123:
           attributes:
             title: Voluptas.
             description: "<p>Reprehenderit aut occaecati. Laudantium ut animi. Qui
