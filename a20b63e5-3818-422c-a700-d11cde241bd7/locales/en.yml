@@ -1,0 +1,39 @@
+---
+en:
+  a20b63e5-3818-422c-a700-d11cde241bd7:
+    attributes:
+      title: Ex ut dolores adipisci suscipit.
+      subtitle: Quas eveniet.
+      short_description: "<p>Voluptatum eaque pariatur.</p>"
+      description: "<p>Velit ut repellat. Officia officiis et. Debitis alias magni.</p>"
+      announcement:
+      developer_group: Provident.
+      local_area: Rerum qui.
+      meta_scope: voluptatem
+      target: Enim est consectetur.
+      participatory_scope: Totam.
+      participatory_structure: Magni dolor.
+      components:
+        accountability_accountability:
+          attributes:
+            name: Accountability
+          global_settings:
+            intro: "<p>Autem aut amet nihil.</p>"
+      content_blocks:
+        participatory_process_group_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+        participatory_process_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+      steps:
+        '20251016075603':
+          attributes:
+            title: Animi quod.
+            description: "<p>Nostrum iure sequi. Occaecati excepturi consequatur.
+              Est aut omnis.</p>"
+    metadata:
+      name: asd
+      description: asd

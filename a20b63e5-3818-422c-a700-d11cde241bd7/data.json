@@ -1,0 +1,250 @@
+{
+  "id": "a20b63e5-3818-422c-a700-d11cde241bd7",
+  "@class": "Decidim::ParticipatoryProcess",
+  "attributes": {
+    "title": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.title",
+    "subtitle": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.subtitle",
+    "slug": "academy-nursery",
+    "short_description": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.short_description",
+    "description": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.description",
+    "announcement": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.announcement",
+    "start_date_relative": -36735,
+    "end_date_relative": 5233665,
+    "developer_group": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.developer_group",
+    "local_area": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.local_area",
+    "meta_scope": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.meta_scope",
+    "target": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.target",
+    "participatory_scope": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.participatory_scope",
+    "participatory_structure": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.participatory_structure",
+    "private_space": false,
+    "promoted": true,
+    "components": [
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.components.accountability_accountability",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "accountability",
+          "name": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.components.accountability_accountability.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": [
+                3
+              ]
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "intro",
+              "value": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.components.accountability_accountability.global_settings.intro"
+            },
+            {
+              "type": "display_progress_enabled",
+              "value": true
+            },
+            {
+              "type": "geocoding_enabled",
+              "value": false
+            }
+          ],
+          "step_settings": {
+            "20251016075603": [
+              {
+                "type": "comments_blocked",
+                "value": false
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -8171
+        }
+      }
+    ],
+    "hero_image": null,
+    "content_blocks": [
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_title",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "title",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 10,
+          "images_container": {},
+          "published_at_relative": -8172
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_extra_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "extra_data",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -8172
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_hero",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "hero",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "button_text",
+              "value": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_hero.settings.button_text"
+            },
+            {
+              "type": "button_url",
+              "value": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_hero.settings.button_url"
+            }
+          ],
+          "weight": 30,
+          "images_container": {
+            "background_image": null
+          },
+          "published_at_relative": -8172
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_stats",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "stats",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 40,
+          "images_container": {},
+          "published_at_relative": -8172
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_highlighted_meetings",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "highlighted_meetings",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "order",
+              "value": "random"
+            },
+            {
+              "type": "show_space",
+              "value": true
+            }
+          ],
+          "weight": 50,
+          "images_container": {},
+          "published_at_relative": -8172
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_group_homepage_highlighted_results",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "highlighted_results",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "order",
+              "value": "random"
+            },
+            {
+              "type": "show_space",
+              "value": true
+            }
+          ],
+          "weight": 60,
+          "images_container": {},
+          "published_at_relative": -8172
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_homepage_hero",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "hero",
+          "scope_name": "participatory_process_homepage",
+          "settings": [
+            {
+              "type": "button_text",
+              "value": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_homepage_hero.settings.button_text"
+            },
+            {
+              "type": "button_url",
+              "value": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_homepage_hero.settings.button_url"
+            }
+          ],
+          "weight": 10,
+          "images_container": {
+            "background_image": null
+          },
+          "published_at_relative": -8171
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_homepage_main_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "main_data",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -8171
+        }
+      },
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.content_blocks.participatory_process_homepage_metadata",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "metadata",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 30,
+          "images_container": {},
+          "published_at_relative": -8171
+        }
+      }
+    ],
+    "steps": [
+      {
+        "id": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.steps.20251016075603",
+        "@class": "Decidim::ParticipatoryProcessStep",
+        "attributes": {
+          "title": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.steps.20251016075603.attributes.title",
+          "description": "a20b63e5-3818-422c-a700-d11cde241bd7.attributes.steps.20251016075603.attributes.description",
+          "position": 0,
+          "start_date_relative": -2600172,
+          "end_date_relative": 5262228
+        }
+      }
+    ]
+  },
+  "name": "a20b63e5-3818-422c-a700-d11cde241bd7.metadata.name",
+  "description": "a20b63e5-3818-422c-a700-d11cde241bd7.metadata.description",
+  "version": "asdasd",
+  "id": "a20b63e5-3818-422c-a700-d11cde241bd7",
+  "default_locale": "en",
+  "author": "ads",
+  "links": [],
+  "@class": "Decidim::ParticipatoryProcess",
+  "community_templates_version": "0.0.1-rc2",
+  "decidim_version": "0.30.1",
+  "archived_at": null,
+  "updated_at": "2025-10-16 10:12:15 UTC",
+  "created_at": "2025-10-16 10:11:59 UTC",
+  "decidim_version": "0.30.1",
+  "community_templates_version": "0.0.1-rc2"
+}
