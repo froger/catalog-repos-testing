@@ -8,8 +8,8 @@
     "short_description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.short_description",
     "description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.description",
     "announcement": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.announcement",
-    "start_date_relative": -78969,
-    "end_date_relative": 5191431,
+    "start_date_relative": -82282,
+    "end_date_relative": 5188118,
     "developer_group": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.developer_group",
     "local_area": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.local_area",
     "meta_scope": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.meta_scope",
@@ -63,8 +63,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2684,
-          "ressources": []
+          "published_at_relative": -5997,
+          "resources": []
         }
       },
       {
@@ -113,8 +113,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2620,
-          "ressources": []
+          "published_at_relative": -5933,
+          "resources": []
         }
       },
       {
@@ -223,8 +223,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2609,
-          "ressources": []
+          "published_at_relative": -5922,
+          "resources": []
         }
       },
       {
@@ -281,8 +281,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2598,
-          "ressources": []
+          "published_at_relative": -5911,
+          "resources": []
         }
       },
       {
@@ -347,8 +347,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2596,
-          "ressources": []
+          "published_at_relative": -5909,
+          "resources": []
         }
       },
       {
@@ -373,8 +373,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2571,
-          "ressources": []
+          "published_at_relative": -5884,
+          "resources": []
         }
       },
       {
@@ -570,8 +570,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2571,
-          "ressources": [
+          "published_at_relative": -5884,
+          "resources": [
             {
               "id": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1",
               "@class": "Decidim::Proposals::ProposalState",
@@ -611,19 +611,18 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.body",
-                "created_at_relative": -2561,
-                "updated_at_relative": -2560,
+                "created_at_relative": -5874,
+                "updated_at_relative": -5873,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -2561,
+                "answered_at_relative": -5874,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.answer",
                 "reference": "V-PROP-2025-10-4",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2561,
+                "published_at_relative": -5874,
                 "participatory_text_level": null,
                 "position": 4,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.cost_report",
@@ -640,19 +639,18 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.body",
-                "created_at_relative": -2557,
-                "updated_at_relative": -2556,
+                "created_at_relative": -5870,
+                "updated_at_relative": -5869,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -2557,
+                "answered_at_relative": -5870,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.answer",
                 "reference": "V-PROP-2025-10-6",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2557,
+                "published_at_relative": -5870,
                 "participatory_text_level": null,
                 "position": 6,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.cost_report",
@@ -669,8 +667,8 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.body",
-                "created_at_relative": -2561,
-                "updated_at_relative": -2559,
+                "created_at_relative": -5874,
+                "updated_at_relative": -5872,
                 "proposal_votes_count": 2,
                 "answered_at_relative": null,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.answer",
@@ -678,10 +676,9 @@
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2561,
+                "published_at_relative": -5874,
                 "participatory_text_level": null,
                 "position": 3,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.cost_report",
@@ -698,25 +695,24 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.body",
-                "created_at_relative": -2565,
-                "updated_at_relative": -2562,
+                "created_at_relative": -5878,
+                "updated_at_relative": -5875,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -2565,
+                "answered_at_relative": -5878,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.answer",
                 "reference": "V-PROP-2025-10-2",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2565,
+                "published_at_relative": -5878,
                 "participatory_text_level": null,
                 "position": 2,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.cost_report",
                 "execution_period": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.execution_period",
                 "state_id": "proposal_state_3",
-                "state_published_at_relative": -2565,
+                "state_published_at_relative": -5878,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -727,19 +723,18 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.body",
-                "created_at_relative": -2557,
-                "updated_at_relative": -2556,
+                "created_at_relative": -5870,
+                "updated_at_relative": -5869,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -2557,
+                "answered_at_relative": -5870,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.answer",
                 "reference": "V-PROP-2025-10-5",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2557,
+                "published_at_relative": -5870,
                 "participatory_text_level": null,
                 "position": 5,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.cost_report",
@@ -756,19 +751,18 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.body",
-                "created_at_relative": -2553,
-                "updated_at_relative": -2552,
+                "created_at_relative": -5866,
+                "updated_at_relative": -5865,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -2553,
+                "answered_at_relative": -5866,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.answer",
                 "reference": "V-PROP-2025-10-8",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2553,
+                "published_at_relative": -5866,
                 "participatory_text_level": null,
                 "position": 8,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.cost_report",
@@ -785,8 +779,8 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.body",
-                "created_at_relative": -2553,
-                "updated_at_relative": -2552,
+                "created_at_relative": -5866,
+                "updated_at_relative": -5865,
                 "proposal_votes_count": 1,
                 "answered_at_relative": null,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.answer",
@@ -794,10 +788,9 @@
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2553,
+                "published_at_relative": -5866,
                 "participatory_text_level": null,
                 "position": 7,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.cost_report",
@@ -814,25 +807,24 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.body",
-                "created_at_relative": -2571,
-                "updated_at_relative": -2551,
+                "created_at_relative": -5884,
+                "updated_at_relative": -5864,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -2571,
+                "answered_at_relative": -5884,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.answer",
                 "reference": "V-PROP-2025-10-1",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -2571,
+                "published_at_relative": -5884,
                 "participatory_text_level": null,
                 "position": 1,
-                "created_in_meeting": false,
                 "endorsements_count": 0,
                 "cost": null,
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.cost_report",
                 "execution_period": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.execution_period",
                 "state_id": "proposal_state_1",
-                "state_published_at_relative": -2571,
+                "state_published_at_relative": -5884,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -865,8 +857,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2550,
-          "ressources": []
+          "published_at_relative": -5863,
+          "resources": []
         }
       },
       {
@@ -891,8 +883,8 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -2550,
-          "ressources": []
+          "published_at_relative": -5863,
+          "resources": []
         }
       }
     ],
@@ -907,7 +899,7 @@
           "settings": [],
           "weight": 10,
           "images_container": {},
-          "published_at_relative": -2686
+          "published_at_relative": -5999
         }
       },
       {
@@ -919,7 +911,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -2686
+          "published_at_relative": -5999
         }
       },
       {
@@ -942,7 +934,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -2686
+          "published_at_relative": -5999
         }
       },
       {
@@ -954,7 +946,7 @@
           "settings": [],
           "weight": 40,
           "images_container": {},
-          "published_at_relative": -2686
+          "published_at_relative": -5999
         }
       },
       {
@@ -975,7 +967,7 @@
           ],
           "weight": 50,
           "images_container": {},
-          "published_at_relative": -2686
+          "published_at_relative": -5999
         }
       },
       {
@@ -996,7 +988,7 @@
           ],
           "weight": 60,
           "images_container": {},
-          "published_at_relative": -2686
+          "published_at_relative": -5999
         }
       },
       {
@@ -1019,7 +1011,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -2685
+          "published_at_relative": -5998
         }
       },
       {
@@ -1031,7 +1023,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -2685
+          "published_at_relative": -5998
         }
       },
       {
@@ -1043,7 +1035,7 @@
           "settings": [],
           "weight": 30,
           "images_container": {},
-          "published_at_relative": -2685
+          "published_at_relative": -5998
         }
       }
     ],
@@ -1055,8 +1047,8 @@
           "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.steps.participatory_process_step_20251016211123.attributes.title",
           "description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.steps.participatory_process_step_20251016211123.attributes.description",
           "position": 0,
-          "start_date_relative": -2594686,
-          "end_date_relative": 5267714
+          "start_date_relative": -2597999,
+          "end_date_relative": 5264401
         }
       }
     ]
@@ -1073,7 +1065,7 @@
   "decidim_version": "0.30.1",
   "archived_at": null,
   "updated_at": null,
-  "created_at": "2025-10-16T21:56:09.355Z",
+  "created_at": "2025-10-16T22:51:22.056Z",
   "decidim_version": "0.30.1",
   "community_templates_version": "0.0.1-rc3"
 }
