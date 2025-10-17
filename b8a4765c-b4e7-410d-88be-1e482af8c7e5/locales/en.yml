@@ -140,8 +140,8 @@ en:
             button_url:
         participatory_process_homepage_hero:
           settings:
-            button_text:
-            button_url:
+            button_text: Let's participate
+            button_url: https://octree.ch
       steps:
         participatory_process_step_20251016211123:
           attributes:
@@ -150,6 +150,4 @@ en:
               eos perspiciatis.</p>"
     metadata:
       name: Demo
-      description: 'try to copy to clipboard
-
-        '
+      description: with hero image

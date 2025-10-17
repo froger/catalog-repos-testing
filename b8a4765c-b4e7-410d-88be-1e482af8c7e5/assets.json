@@ -1,3 +1,15 @@
 {
-  "assets": []
+  "assets": [
+    {
+      "id": "z0gwouplaexmrfkvmlnkzvljemduut09_20251017092109.png",
+      "@class": "ActiveStorage::Attachment",
+      "attributes": {
+        "content_type": "image/png",
+        "name": "file",
+        "record_type": "Decidim::ContentBlockAttachment",
+        "filename": "z0gwouplaexmrfkvmlnkzvljemduut09_20251017092109.png",
+        "extension": ".png"
+      }
+    }
+  ]
 }

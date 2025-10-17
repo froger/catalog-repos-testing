@@ -8,8 +8,8 @@
     "short_description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.short_description",
     "description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.description",
     "announcement": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.announcement",
-    "start_date_relative": -115555,
-    "end_date_relative": 5154845,
+    "start_date_relative": -120082,
+    "end_date_relative": 5150318,
     "developer_group": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.developer_group",
     "local_area": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.local_area",
     "meta_scope": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.meta_scope",
@@ -63,7 +63,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39270,
+          "published_at_relative": -43797,
           "resources": []
         }
       },
@@ -113,7 +113,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39206,
+          "published_at_relative": -43733,
           "resources": []
         }
       },
@@ -223,7 +223,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39195,
+          "published_at_relative": -43722,
           "resources": []
         }
       },
@@ -281,7 +281,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39184,
+          "published_at_relative": -43711,
           "resources": []
         }
       },
@@ -347,7 +347,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39182,
+          "published_at_relative": -43709,
           "resources": []
         }
       },
@@ -373,7 +373,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39157,
+          "published_at_relative": -43684,
           "resources": []
         }
       },
@@ -570,7 +570,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39157,
+          "published_at_relative": -43684,
           "resources": [
             {
               "id": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1",
@@ -611,16 +611,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.body",
-                "created_at_relative": -39147,
-                "updated_at_relative": -39146,
+                "created_at_relative": -43674,
+                "updated_at_relative": -43673,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -39147,
+                "answered_at_relative": -43674,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.answer",
                 "reference": "V-PROP-2025-10-4",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39147,
+                "published_at_relative": -43674,
                 "participatory_text_level": null,
                 "position": 4,
                 "endorsements_count": 0,
@@ -639,16 +639,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.body",
-                "created_at_relative": -39143,
-                "updated_at_relative": -39142,
+                "created_at_relative": -43670,
+                "updated_at_relative": -43669,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -39143,
+                "answered_at_relative": -43670,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.answer",
                 "reference": "V-PROP-2025-10-6",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39143,
+                "published_at_relative": -43670,
                 "participatory_text_level": null,
                 "position": 6,
                 "endorsements_count": 0,
@@ -667,8 +667,8 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.body",
-                "created_at_relative": -39147,
-                "updated_at_relative": -39145,
+                "created_at_relative": -43674,
+                "updated_at_relative": -43672,
                 "proposal_votes_count": 2,
                 "answered_at_relative": null,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211328.attributes.answer",
@@ -676,7 +676,7 @@
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39147,
+                "published_at_relative": -43674,
                 "participatory_text_level": null,
                 "position": 3,
                 "endorsements_count": 0,
@@ -695,16 +695,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.body",
-                "created_at_relative": -39151,
-                "updated_at_relative": -39148,
+                "created_at_relative": -43678,
+                "updated_at_relative": -43675,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -39151,
+                "answered_at_relative": -43678,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.answer",
                 "reference": "V-PROP-2025-10-2",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39151,
+                "published_at_relative": -43678,
                 "participatory_text_level": null,
                 "position": 2,
                 "endorsements_count": 0,
@@ -712,7 +712,7 @@
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.cost_report",
                 "execution_period": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211324.attributes.execution_period",
                 "state_id": "proposal_state_3",
-                "state_published_at_relative": -39151,
+                "state_published_at_relative": -43678,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -723,16 +723,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.body",
-                "created_at_relative": -39143,
-                "updated_at_relative": -39142,
+                "created_at_relative": -43670,
+                "updated_at_relative": -43669,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -39143,
+                "answered_at_relative": -43670,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211332.attributes.answer",
                 "reference": "V-PROP-2025-10-5",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39143,
+                "published_at_relative": -43670,
                 "participatory_text_level": null,
                 "position": 5,
                 "endorsements_count": 0,
@@ -751,16 +751,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.body",
-                "created_at_relative": -39139,
-                "updated_at_relative": -39138,
+                "created_at_relative": -43666,
+                "updated_at_relative": -43665,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -39139,
+                "answered_at_relative": -43666,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.answer",
                 "reference": "V-PROP-2025-10-8",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39139,
+                "published_at_relative": -43666,
                 "participatory_text_level": null,
                 "position": 8,
                 "endorsements_count": 0,
@@ -779,8 +779,8 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.body",
-                "created_at_relative": -39139,
-                "updated_at_relative": -39138,
+                "created_at_relative": -43666,
+                "updated_at_relative": -43665,
                 "proposal_votes_count": 1,
                 "answered_at_relative": null,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211336.attributes.answer",
@@ -788,7 +788,7 @@
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39139,
+                "published_at_relative": -43666,
                 "participatory_text_level": null,
                 "position": 7,
                 "endorsements_count": 0,
@@ -807,16 +807,16 @@
               "attributes": {
                 "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.title",
                 "body": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.body",
-                "created_at_relative": -39157,
-                "updated_at_relative": -39137,
+                "created_at_relative": -43684,
+                "updated_at_relative": -43664,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -39157,
+                "answered_at_relative": -43684,
                 "answer": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.answer",
                 "reference": "V-PROP-2025-10-1",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -39157,
+                "published_at_relative": -43684,
                 "participatory_text_level": null,
                 "position": 1,
                 "endorsements_count": 0,
@@ -824,7 +824,7 @@
                 "cost_report": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.cost_report",
                 "execution_period": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.components.proposals_proposals.attributes.proposals.proposal_20251016211318.attributes.execution_period",
                 "state_id": "proposal_state_1",
-                "state_published_at_relative": -39157,
+                "state_published_at_relative": -43684,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -857,7 +857,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39136,
+          "published_at_relative": -43663,
           "resources": []
         }
       },
@@ -883,7 +883,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -39136,
+          "published_at_relative": -43663,
           "resources": []
         }
       }
@@ -899,7 +899,7 @@
           "settings": [],
           "weight": 10,
           "images_container": {},
-          "published_at_relative": -39272
+          "published_at_relative": -43799
         }
       },
       {
@@ -911,7 +911,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -39272
+          "published_at_relative": -43799
         }
       },
       {
@@ -934,7 +934,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -39272
+          "published_at_relative": -43799
         }
       },
       {
@@ -946,7 +946,7 @@
           "settings": [],
           "weight": 40,
           "images_container": {},
-          "published_at_relative": -39272
+          "published_at_relative": -43799
         }
       },
       {
@@ -967,7 +967,7 @@
           ],
           "weight": 50,
           "images_container": {},
-          "published_at_relative": -39272
+          "published_at_relative": -43799
         }
       },
       {
@@ -988,7 +988,31 @@
           ],
           "weight": 60,
           "images_container": {},
-          "published_at_relative": -39272
+          "published_at_relative": -43799
+        }
+      },
+      {
+        "id": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.content_blocks.participatory_process_homepage_main_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "main_data",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -43798
+        }
+      },
+      {
+        "id": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.content_blocks.participatory_process_homepage_metadata",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "metadata",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 30,
+          "images_container": {},
+          "published_at_relative": -43798
         }
       },
       {
@@ -1009,33 +1033,9 @@
           ],
           "weight": 10,
           "images_container": {
-            "background_image": null
+            "background_image": "z0gwouplaexmrfkvmlnkzvljemduut09_20251017092109.png"
           },
-          "published_at_relative": -39271
-        }
-      },
-      {
-        "id": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.content_blocks.participatory_process_homepage_main_data",
-        "@class": "Decidim::ContentBlock",
-        "attributes": {
-          "manifest_name": "main_data",
-          "scope_name": "participatory_process_homepage",
-          "settings": [],
-          "weight": 20,
-          "images_container": {},
-          "published_at_relative": -39271
-        }
-      },
-      {
-        "id": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.content_blocks.participatory_process_homepage_metadata",
-        "@class": "Decidim::ContentBlock",
-        "attributes": {
-          "manifest_name": "metadata",
-          "scope_name": "participatory_process_homepage",
-          "settings": [],
-          "weight": 30,
-          "images_container": {},
-          "published_at_relative": -39271
+          "published_at_relative": -43798
         }
       }
     ],
@@ -1047,8 +1047,8 @@
           "title": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.steps.participatory_process_step_20251016211123.attributes.title",
           "description": "b8a4765c-b4e7-410d-88be-1e482af8c7e5.attributes.steps.participatory_process_step_20251016211123.attributes.description",
           "position": 0,
-          "start_date_relative": -2631272,
-          "end_date_relative": 5231128
+          "start_date_relative": -2635799,
+          "end_date_relative": 5226601
         }
       }
     ]
@@ -1065,7 +1065,7 @@
   "decidim_version": "0.30.1",
   "archived_at": null,
   "updated_at": null,
-  "created_at": "2025-10-17T08:05:55.283Z",
+  "created_at": "2025-10-17T09:21:21.825Z",
   "decidim_version": "0.30.1",
   "community_templates_version": "0.0.1-rc3"
 }
