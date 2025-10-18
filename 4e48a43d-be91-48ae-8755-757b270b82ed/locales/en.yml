@@ -67,18 +67,18 @@ en:
           attributes:
             name: Proposals
             proposal_states:
-              proposal_state_1:
-                attributes:
-                  title: Evaluating
-                  announcement_title: This proposal is being evaluated
-              proposal_state_2:
-                attributes:
-                  title: Accepted
-                  announcement_title: 'This proposal has been accepted because:'
               proposal_state_3:
                 attributes:
                   title: Rejected
                   announcement_title: 'This proposal has been rejected because:'
+              proposal_state_2:
+                attributes:
+                  title: Accepted
+                  announcement_title: 'This proposal has been accepted because:'
+              proposal_state_1:
+                attributes:
+                  title: Evaluating
+                  announcement_title: This proposal is being evaluated
             proposals:
               proposal_20251018093921:
                 attributes:
