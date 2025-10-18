@@ -8,8 +8,8 @@
     "short_description": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.short_description",
     "description": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.description",
     "announcement": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.announcement",
-    "start_date_relative": -36326,
-    "end_date_relative": 5234074,
+    "start_date_relative": -36430,
+    "end_date_relative": 5233970,
     "developer_group": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.developer_group",
     "local_area": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.local_area",
     "meta_scope": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.meta_scope",
@@ -63,7 +63,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1700,
+          "published_at_relative": -1804,
           "resources": []
         }
       },
@@ -113,7 +113,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1628,
+          "published_at_relative": -1732,
           "resources": []
         }
       },
@@ -223,7 +223,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1616,
+          "published_at_relative": -1720,
           "resources": []
         }
       },
@@ -281,7 +281,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1608,
+          "published_at_relative": -1712,
           "resources": []
         }
       },
@@ -347,7 +347,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1605,
+          "published_at_relative": -1709,
           "resources": []
         }
       },
@@ -373,7 +373,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1583,
+          "published_at_relative": -1687,
           "resources": []
         }
       },
@@ -570,7 +570,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1583,
+          "published_at_relative": -1687,
           "resources": [
             {
               "id": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1",
@@ -611,16 +611,16 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093921.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093921.attributes.body",
-                "created_at_relative": -1565,
-                "updated_at_relative": -1563,
+                "created_at_relative": -1669,
+                "updated_at_relative": -1667,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -1565,
+                "answered_at_relative": -1669,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093921.attributes.answer",
                 "reference": "I-PROP-2025-10-5",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1565,
+                "published_at_relative": -1669,
                 "participatory_text_level": null,
                 "position": 5,
                 "endorsements_count": 43,
@@ -639,8 +639,8 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093910.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093910.attributes.body",
-                "created_at_relative": -1576,
-                "updated_at_relative": -1575,
+                "created_at_relative": -1680,
+                "updated_at_relative": -1679,
                 "proposal_votes_count": 1,
                 "answered_at_relative": null,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093910.attributes.answer",
@@ -648,7 +648,7 @@
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1576,
+                "published_at_relative": -1680,
                 "participatory_text_level": null,
                 "position": 2,
                 "endorsements_count": 35,
@@ -667,16 +667,16 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093924.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093924.attributes.body",
-                "created_at_relative": -1562,
-                "updated_at_relative": -550,
+                "created_at_relative": -1666,
+                "updated_at_relative": -654,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1562,
+                "answered_at_relative": -1666,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093924.attributes.answer",
                 "reference": "I-PROP-2025-10-7",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1562,
+                "published_at_relative": -1666,
                 "participatory_text_level": null,
                 "position": 7,
                 "endorsements_count": 8,
@@ -695,16 +695,16 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093924.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093924.attributes.body",
-                "created_at_relative": -1562,
-                "updated_at_relative": -1562,
+                "created_at_relative": -1666,
+                "updated_at_relative": -1666,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1562,
+                "answered_at_relative": -1666,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093924.attributes.answer",
                 "reference": "I-PROP-2025-10-8",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1562,
+                "published_at_relative": -1666,
                 "participatory_text_level": null,
                 "position": 8,
                 "endorsements_count": 10,
@@ -723,16 +723,16 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093914.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093914.attributes.body",
-                "created_at_relative": -1572,
-                "updated_at_relative": -1568,
+                "created_at_relative": -1676,
+                "updated_at_relative": -1672,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -1572,
+                "answered_at_relative": -1676,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093914.attributes.answer",
                 "reference": "I-PROP-2025-10-4",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1572,
+                "published_at_relative": -1676,
                 "participatory_text_level": null,
                 "position": 4,
                 "endorsements_count": 46,
@@ -740,7 +740,7 @@
                 "cost_report": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093914.attributes.cost_report",
                 "execution_period": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093914.attributes.execution_period",
                 "state_id": "proposal_state_3",
-                "state_published_at_relative": -1572,
+                "state_published_at_relative": -1676,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -751,16 +751,16 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093921.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093921.attributes.body",
-                "created_at_relative": -1565,
-                "updated_at_relative": -1565,
+                "created_at_relative": -1669,
+                "updated_at_relative": -1669,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1565,
+                "answered_at_relative": -1669,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093921.attributes.answer",
                 "reference": "I-PROP-2025-10-6",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1565,
+                "published_at_relative": -1669,
                 "participatory_text_level": null,
                 "position": 6,
                 "endorsements_count": 19,
@@ -779,16 +779,16 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093911.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093911.attributes.body",
-                "created_at_relative": -1575,
-                "updated_at_relative": -1397,
+                "created_at_relative": -1679,
+                "updated_at_relative": -1501,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1575,
+                "answered_at_relative": -1679,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093911.attributes.answer",
                 "reference": "I-PROP-2025-10-3",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1575,
+                "published_at_relative": -1679,
                 "participatory_text_level": null,
                 "position": 3,
                 "endorsements_count": 3,
@@ -807,16 +807,16 @@
               "attributes": {
                 "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093903.attributes.title",
                 "body": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093903.attributes.body",
-                "created_at_relative": -1583,
-                "updated_at_relative": -1397,
+                "created_at_relative": -1687,
+                "updated_at_relative": -1501,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -1583,
+                "answered_at_relative": -1687,
                 "answer": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093903.attributes.answer",
                 "reference": "I-PROP-2025-10-1",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1583,
+                "published_at_relative": -1687,
                 "participatory_text_level": null,
                 "position": 1,
                 "endorsements_count": 11,
@@ -824,7 +824,7 @@
                 "cost_report": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093903.attributes.cost_report",
                 "execution_period": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.components.proposals_proposals.attributes.proposals.proposal_20251018093903.attributes.execution_period",
                 "state_id": "proposal_state_2",
-                "state_published_at_relative": -1583,
+                "state_published_at_relative": -1687,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -857,7 +857,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1559,
+          "published_at_relative": -1663,
           "resources": []
         }
       },
@@ -883,7 +883,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1559,
+          "published_at_relative": -1663,
           "resources": []
         }
       }
@@ -899,7 +899,7 @@
           "settings": [],
           "weight": 10,
           "images_container": {},
-          "published_at_relative": -1702
+          "published_at_relative": -1806
         }
       },
       {
@@ -911,7 +911,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -1702
+          "published_at_relative": -1806
         }
       },
       {
@@ -934,7 +934,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -1702
+          "published_at_relative": -1806
         }
       },
       {
@@ -946,7 +946,7 @@
           "settings": [],
           "weight": 40,
           "images_container": {},
-          "published_at_relative": -1702
+          "published_at_relative": -1806
         }
       },
       {
@@ -967,7 +967,7 @@
           ],
           "weight": 50,
           "images_container": {},
-          "published_at_relative": -1702
+          "published_at_relative": -1806
         }
       },
       {
@@ -988,7 +988,7 @@
           ],
           "weight": 60,
           "images_container": {},
-          "published_at_relative": -1702
+          "published_at_relative": -1806
         }
       },
       {
@@ -1011,7 +1011,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -1700
+          "published_at_relative": -1804
         }
       },
       {
@@ -1023,7 +1023,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -1700
+          "published_at_relative": -1804
         }
       },
       {
@@ -1035,7 +1035,7 @@
           "settings": [],
           "weight": 30,
           "images_container": {},
-          "published_at_relative": -1700
+          "published_at_relative": -1804
         }
       },
       {
@@ -1058,7 +1058,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -1162
+          "published_at_relative": -1266
         }
       },
       {
@@ -1070,7 +1070,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -1162
+          "published_at_relative": -1266
         }
       },
       {
@@ -1082,7 +1082,7 @@
           "settings": [],
           "weight": 30,
           "images_container": {},
-          "published_at_relative": -1162
+          "published_at_relative": -1266
         }
       }
     ],
@@ -1094,8 +1094,8 @@
           "title": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.steps.participatory_process_step_20251018093705.attributes.title",
           "description": "4e48a43d-be91-48ae-8755-757b270b82ed.attributes.steps.participatory_process_step_20251018093705.attributes.description",
           "position": 0,
-          "start_date_relative": -2593701,
-          "end_date_relative": 5268699
+          "start_date_relative": -2593805,
+          "end_date_relative": 5268595
         }
       }
     ]
@@ -1111,8 +1111,8 @@
   "community_templates_version": "0.0.1-rc4",
   "decidim_version": "0.30.1",
   "archived_at": null,
-  "updated_at": "2025-10-18 10:05:26 UTC",
-  "created_at": "2025-10-18 10:05:26 UTC",
+  "updated_at": null,
+  "created_at": "2025-10-18T10:07:10.743Z",
   "decidim_version": "0.30.1",
   "community_templates_version": "0.0.1-rc4"
 }
