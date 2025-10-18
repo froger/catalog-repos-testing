@@ -59,6 +59,11 @@ en:
         pages_pages:
           attributes:
             name: Page
+            pages:
+              page_20251018093903:
+                attributes:
+                  body: "<p>Aut architecto exercitationem. Vel mollitia dicta. Eos
+                    voluptas molestiae.</p>"
           global_settings:
             announcement: "<p>Page annoucement</p>"
           steps_participatory_process_step_20251018093705_settings:
