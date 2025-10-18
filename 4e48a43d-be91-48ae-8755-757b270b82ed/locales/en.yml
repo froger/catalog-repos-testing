@@ -1,0 +1,168 @@
+---
+en:
+  4e48a43d-be91-48ae-8755-757b270b82ed:
+    attributes:
+      title: 'Page '
+      subtitle: Ad aut.
+      short_description: "<p>Et maiores enim.</p>"
+      description: "<p>Odio et placeat. Consequatur voluptatem dolorem. Iusto vel
+        sit.</p>"
+      announcement: ''
+      developer_group: Quia.
+      local_area: Assumenda eum.
+      meta_scope: neque
+      target: Non mollitia recusandae.
+      participatory_scope: Ea.
+      participatory_structure: Quia quia.
+      components:
+        accountability_accountability:
+          attributes:
+            name: Accountability
+          global_settings:
+            intro: "<p>Qui fugit quisquam iste.</p>"
+        blogs_blogs:
+          attributes:
+            name: Blog
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251018093705_settings:
+            announcement:
+        budgets_budgets:
+          attributes:
+            name: Budgets
+          global_settings:
+            announcement:
+            landing_page_content: "<h2>Doloribus ipsa et libero.</h2><p>Vitae sit
+              est. Velit maxime sunt. Error doloribus quisquam.</p><p>Quidem magni
+              nobis. Veniam aperiam porro. Qui enim non.</p>"
+            more_information_modal: Eligendi perferendis voluptatem. Praesentium sunt
+              fuga. Esse quas quidem. Facere et ut.
+          steps_participatory_process_step_20251018093705_settings:
+            announcement:
+            landing_page_content:
+            more_information_modal:
+        debates_debates:
+          attributes:
+            name: Debates
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251018093705_settings:
+            announcement:
+        meetings_meetings:
+          attributes:
+            name: Meetings
+          global_settings:
+            announcement:
+            default_registration_terms:
+          steps_participatory_process_step_20251018093705_settings:
+            announcement:
+        pages_pages:
+          attributes:
+            name: Page
+          global_settings:
+            announcement: "<p>Page annoucement</p>"
+          steps_participatory_process_step_20251018093705_settings:
+            announcement: ''
+        proposals_proposals:
+          attributes:
+            name: Proposals
+            proposal_states:
+              proposal_state_1:
+                attributes:
+                  title: Evaluating
+                  announcement_title: This proposal is being evaluated
+              proposal_state_2:
+                attributes:
+                  title: Accepted
+                  announcement_title: 'This proposal has been accepted because:'
+              proposal_state_3:
+                attributes:
+                  title: Rejected
+                  announcement_title: 'This proposal has been rejected because:'
+            proposals:
+              proposal_20251018093921:
+                attributes:
+                  title:
+                  body: Officiis nemo explicabo. Quos fugiat placeat. Adipisci voluptate
+                    nihil.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251018093910:
+                attributes:
+                  title: Alias ut.
+                  body: Quo quasi quae.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251018093924:
+                attributes:
+                  title:
+                  body: Est fugiat et. Ut blanditiis natus. Cupiditate ad explicabo.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251018093914:
+                attributes:
+                  title: Aut maxime.
+                  body: Est delectus tempore.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251018093911:
+                attributes:
+                  title:
+                  body: Quisquam commodi occaecati. Voluptatibus veniam iste. Autem
+                    ut dolor.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251018093903:
+                attributes:
+                  title: Deleniti dolorum.
+                  body: Omnis placeat eius.
+                  answer: Est culpa deserunt occaecati et minima et consectetur amet
+                    provident.
+                  cost_report:
+                  execution_period:
+          global_settings:
+            amendments_wizard_help_text:
+            announcement:
+            new_proposal_body_template:
+            new_proposal_help_text:
+            proposal_wizard_step_1_help_text:
+            proposal_wizard_step_2_help_text:
+          steps_participatory_process_step_20251018093705_settings:
+            announcement:
+        sortitions_sortitions:
+          attributes:
+            name: Sortitions
+        surveys_surveys:
+          attributes:
+            name: Surveys
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251018093705_settings:
+            announcement:
+      content_blocks:
+        participatory_process_group_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+        participatory_process_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+        assembly_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+      steps:
+        participatory_process_step_20251018093705:
+          attributes:
+            title: Hic nemo.
+            description: "<p>Nihil atque qui. Sapiente adipisci soluta. Molestiae
+              nam maxime.</p>"
+    metadata:
+      name: 'demo page '
+      description: asdas
