@@ -1,0 +1,399 @@
+---
+en:
+  a94772b5-aa43-4e7c-9c67-1126cd6fd57e:
+    attributes:
+      title: Consequatur animi totam enim qui.
+      subtitle: Optio dolores.
+      short_description: "<p>Architecto ipsa modi.</p>"
+      description: "<p>Autem in ipsam. Temporibus pariatur sint. Molestias voluptate
+        reiciendis.</p>"
+      developer_group: Quos.
+      local_area: Recusandae culpa.
+      meta_scope: perferendis
+      target: Nobis itaque eaque.
+      participatory_scope: Aut.
+      participatory_structure: Consequatur aspernatur.
+      components:
+        accountability_accountability:
+          attributes:
+            name: Accountability
+          global_settings:
+            intro: "<p>Nisi est vel dignissimos.</p>"
+        blogs_blogs:
+          attributes:
+            name: Blog
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019195229_settings:
+            announcement:
+        budgets_budgets:
+          attributes:
+            name: Budgets
+          global_settings:
+            announcement:
+            landing_page_content: "<h2>Eum iusto ex qui.</h2><p>Unde numquam qui.
+              Quaerat dolorem rerum. Suscipit nihil deserunt.</p><p>Eveniet nam aut.
+              Voluptas veniam nobis. Ducimus laudantium eos.</p>"
+            more_information_modal: Ex dolore voluptatum. Quaerat modi autem. Commodi
+              quo accusantium. Qui quo illo.
+          steps_participatory_process_step_20251019195229_settings:
+            announcement:
+            landing_page_content:
+            more_information_modal:
+        debates_debates:
+          attributes:
+            name: Debates
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019195229_settings:
+            announcement:
+        meetings_meetings:
+          attributes:
+            name: Meetings
+          global_settings:
+            announcement:
+            default_registration_terms:
+          steps_participatory_process_step_20251019195229_settings:
+            announcement:
+        pages_pages:
+          attributes:
+            name: Page
+            pages:
+              page_20251019195421:
+                attributes:
+                  body: "<p>Adipisci aliquid error. Deleniti libero est. Delectus
+                    sit et.</p>"
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019195229_settings:
+            announcement:
+        proposals_proposals:
+          attributes:
+            name: Proposals
+            proposal_states:
+              proposal_state_1:
+                attributes:
+                  title: Evaluating
+                  announcement_title: This proposal is being evaluated
+              proposal_state_2:
+                attributes:
+                  title: Accepted
+                  announcement_title: 'This proposal has been accepted because:'
+              proposal_state_3:
+                attributes:
+                  title: Rejected
+                  announcement_title: 'This proposal has been rejected because:'
+            proposals:
+              proposal_20251019195433:
+                attributes:
+                  title:
+                  body: Velit eaque dolores. Aut nostrum ad. Ipsa voluptas ratione.
+              proposal_20251019195424:
+                attributes:
+                  title: Ut soluta.
+                  body: Enim harum et.
+                  answer: Facere quam adipisci corrupti aspernatur consequatur reiciendis
+                    aliquam est optio.
+              proposal_20251019195421:
+                attributes:
+                  title: Quisquam sint.
+                  body: Ut rerum aperiam.
+                  answer: Et iusto sit sunt illo eos qui molestiae corrupti et.
+              proposal_20251019195427:
+                attributes:
+                  title:
+                  body: Sed magnam aspernatur. Hic asperiores quidem. Provident aliquam
+                    maiores.
+              proposal_20251019195438:
+                attributes:
+                  title: Tenetur aperiam.
+                  body: Ipsa voluptate voluptas.
+              proposal_20251019195426:
+                attributes:
+                  title: Consequuntur accusamus.
+                  body: Sint quia qui.
+              proposal_20251019195432:
+                attributes:
+                  title: Aliquam modi.
+                  body: Dicta molestiae nobis.
+              proposal_20251019195439:
+                attributes:
+                  title:
+                  body: Assumenda est labore. Est laudantium distinctio. Vel similique
+                    quasi.
+          global_settings:
+            amendments_wizard_help_text:
+            announcement:
+            new_proposal_body_template:
+            new_proposal_help_text:
+            proposal_wizard_step_1_help_text:
+            proposal_wizard_step_2_help_text:
+          steps_participatory_process_step_20251019195229_settings:
+            announcement:
+        sortitions_sortitions:
+          attributes:
+            name: Sortitions
+        surveys_surveys:
+          attributes:
+            name: Surveys
+            surveys:
+              survey_20251019195444:
+                attributes:
+                  questionnaire:
+                    questionnaire_20251019195444:
+                      attributes:
+                        questions:
+                          question_20251019195444:
+                            attributes:
+                              body: Sapiente iusto non. Voluptates eius odit. Doloribus
+                                nostrum perferendis.
+                              answer_options:
+                                answer_option_10:
+                                  attributes:
+                                    body: Ipsa vitae quis asperiores.
+                                answer_option_11:
+                                  attributes:
+                                    body: Magnam eligendi quis consectetur.
+                                answer_option_12:
+                                  attributes:
+                                    body: Temporibus ad id doloremque.
+                                answer_option_13:
+                                  attributes:
+                                    body: Natus sunt error earum.
+                                answer_option_14:
+                                  attributes:
+                                    body: Sit dignissimos ut qui.
+                                answer_option_15:
+                                  attributes:
+                                    body: Quae explicabo perferendis tempora.
+                                answer_option_1:
+                                  attributes:
+                                    body: Ut magnam tenetur et.
+                                answer_option_2:
+                                  attributes:
+                                    body: Illum voluptates explicabo in.
+                                answer_option_3:
+                                  attributes:
+                                    body: Veritatis odit in unde.
+                                answer_option_4:
+                                  attributes:
+                                    body: Iusto ab sit labore.
+                                answer_option_5:
+                                  attributes:
+                                    body: Laudantium facere consequatur provident.
+                                answer_option_6:
+                                  attributes:
+                                    body: Sequi quia aut tempora.
+                                answer_option_7:
+                                  attributes:
+                                    body: Et quis nam aliquid.
+                                answer_option_8:
+                                  attributes:
+                                    body: Vel voluptatem et officiis.
+                                answer_option_9:
+                                  attributes:
+                                    body: Incidunt eius quia ipsum.
+                              matrix_rows:
+                                question_matrix_row_1:
+                                  attributes:
+                                    body: Minus ducimus laborum optio.
+                                question_matrix_row_2:
+                                  attributes:
+                                    body: Excepturi quos iure blanditiis.
+                                question_matrix_row_3:
+                                  attributes:
+                                    body: Voluptatem aut nostrum non.
+                                question_matrix_row_4:
+                                  attributes:
+                                    body: Dignissimos repudiandae dolor et.
+                                question_matrix_row_5:
+                                  attributes:
+                                    body: Ab fuga dolorem sit.
+                                question_matrix_row_6:
+                                  attributes:
+                                    body: Enim minus veritatis et.
+                        title: Ipsum ut in. Enim dolorem aperiam. Delectus qui animi.
+                        description: "<p>Impedit omnis nihil. Earum consequatur sunt.
+                          Rerum magni in.</p>"
+                        tos: "<p>Vero fuga perferendis. Excepturi iste enim.</p>"
+              survey_20251019195452:
+                attributes:
+                  questionnaire:
+                    questionnaire_20251019195452:
+                      attributes:
+                        title: Aliquam fugiat hic. Possimus quibusdam quae. Quia consequatur
+                          ab.
+                        description: "<p>Iure inventore ut. Nihil eius laborum. Exercitationem
+                          qui sed.</p>"
+                        tos: "<p>Aliquam atque quis. Voluptatibus veniam fuga.</p>"
+                        questions:
+                          question_20251019195452:
+                            attributes:
+                              body: Quis autem tenetur. Illum sunt quis. Molestias
+                                dolores sit.
+                              answer_options:
+                                answer_option_25:
+                                  attributes:
+                                    body: Perferendis dolorem id sed.
+                                answer_option_26:
+                                  attributes:
+                                    body: Fugiat sapiente laboriosam sit.
+                                answer_option_27:
+                                  attributes:
+                                    body: Sit repellendus voluptatum cupiditate.
+                                answer_option_28:
+                                  attributes:
+                                    body: Ab voluptatem praesentium debitis.
+                                answer_option_29:
+                                  attributes:
+                                    body: Perspiciatis alias quis molestiae.
+                                answer_option_30:
+                                  attributes:
+                                    body: Et consectetur eius doloribus.
+                                answer_option_16:
+                                  attributes:
+                                    body: Voluptatem esse qui distinctio.
+                                answer_option_17:
+                                  attributes:
+                                    body: Temporibus unde sint voluptatem.
+                                answer_option_18:
+                                  attributes:
+                                    body: Non consectetur commodi sed.
+                                answer_option_19:
+                                  attributes:
+                                    body: Odit amet sapiente et.
+                                answer_option_20:
+                                  attributes:
+                                    body: Et sint consequatur et.
+                                answer_option_21:
+                                  attributes:
+                                    body: Accusamus ducimus similique libero.
+                                answer_option_22:
+                                  attributes:
+                                    body: Qui similique deleniti velit.
+                                answer_option_23:
+                                  attributes:
+                                    body: Repudiandae nulla voluptas doloribus.
+                                answer_option_24:
+                                  attributes:
+                                    body: Nostrum quia ipsum praesentium.
+                              matrix_rows:
+                                question_matrix_row_7:
+                                  attributes:
+                                    body: Cumque et et non.
+                                question_matrix_row_8:
+                                  attributes:
+                                    body: Alias maiores et est.
+                                question_matrix_row_9:
+                                  attributes:
+                                    body: At adipisci sint numquam.
+                                question_matrix_row_10:
+                                  attributes:
+                                    body: Alias hic reiciendis minus.
+                                question_matrix_row_11:
+                                  attributes:
+                                    body: Non culpa deserunt consequatur.
+                                question_matrix_row_12:
+                                  attributes:
+                                    body: Cupiditate velit alias ea.
+              survey_20251019195520:
+                attributes:
+                  questionnaire:
+                    questionnaire_20251019195520:
+                      attributes:
+                        title: Fugiat in ut. Quaerat tenetur ipsam. Fugiat est ea.
+                        description: "<p>Non sit nostrum. Est quae accusamus. Modi
+                          aut nihil.</p>"
+                        tos: "<p>Atque et quod. Repudiandae maiores omnis.</p>"
+                        questions:
+                          question_20251019195520:
+                            attributes:
+                              body: Laborum eum est. Consequatur velit voluptatibus.
+                                Et enim sed.
+                              answer_options:
+                                answer_option_40:
+                                  attributes:
+                                    body: Facere quibusdam aliquid architecto.
+                                answer_option_41:
+                                  attributes:
+                                    body: Accusamus eveniet et ut.
+                                answer_option_42:
+                                  attributes:
+                                    body: Quia aliquid perspiciatis et.
+                                answer_option_43:
+                                  attributes:
+                                    body: Aut blanditiis rerum sunt.
+                                answer_option_44:
+                                  attributes:
+                                    body: Repudiandae doloribus expedita sint.
+                                answer_option_45:
+                                  attributes:
+                                    body: Deleniti et aut amet.
+                                answer_option_31:
+                                  attributes:
+                                    body: Officiis voluptatem quae sunt.
+                                answer_option_32:
+                                  attributes:
+                                    body: Quidem nulla voluptas rerum.
+                                answer_option_33:
+                                  attributes:
+                                    body: Ducimus aspernatur velit quia.
+                                answer_option_34:
+                                  attributes:
+                                    body: Voluptatum sint est ipsam.
+                                answer_option_35:
+                                  attributes:
+                                    body: Praesentium consequatur aliquam consequatur.
+                                answer_option_36:
+                                  attributes:
+                                    body: Hic nostrum placeat reprehenderit.
+                                answer_option_37:
+                                  attributes:
+                                    body: Architecto error sequi voluptatem.
+                                answer_option_38:
+                                  attributes:
+                                    body: Eos repellat amet deserunt.
+                                answer_option_39:
+                                  attributes:
+                                    body: Aut est sunt quod.
+                              matrix_rows:
+                                question_matrix_row_13:
+                                  attributes:
+                                    body: Eaque quam voluptatibus vel.
+                                question_matrix_row_14:
+                                  attributes:
+                                    body: Exercitationem ut et quae.
+                                question_matrix_row_15:
+                                  attributes:
+                                    body: Hic qui soluta magnam.
+                                question_matrix_row_16:
+                                  attributes:
+                                    body: Expedita ad sit deleniti.
+                                question_matrix_row_17:
+                                  attributes:
+                                    body: Quia placeat quia nam.
+                                question_matrix_row_18:
+                                  attributes:
+                                    body: Quos facilis omnis incidunt.
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019195229_settings:
+            announcement:
+      content_blocks:
+        participatory_process_group_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+        participatory_process_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+      steps:
+        participatory_process_step_20251019195229:
+          attributes:
+            title: Consectetur aut.
+            description: "<p>Vitae nam occaecati. Non exercitationem modi. Ad sunt
+              quasi.</p>"
+    metadata:
+      name: surveys
+      description: asd
