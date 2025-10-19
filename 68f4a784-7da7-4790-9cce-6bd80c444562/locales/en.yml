@@ -1,0 +1,171 @@
+---
+en:
+  68f4a784-7da7-4790-9cce-6bd80c444562:
+    attributes:
+      title: Demo Survey
+      subtitle: Fugiat sunt.
+      short_description: "<p>Maiores dolores vel.</p>"
+      description: "<p>Officiis non enim. Dolores necessitatibus dolorum. Incidunt
+        adipisci sed.</p>"
+      announcement: ''
+      developer_group: Perspiciatis.
+      local_area: Pariatur quo.
+      meta_scope: quod
+      target: Consequatur tempore cumque.
+      participatory_scope: Aut.
+      participatory_structure: Rerum culpa.
+      components:
+        accountability_accountability:
+          attributes:
+            name: Accountability
+          global_settings:
+            intro: "<p>Recusandae assumenda repellat voluptatem.</p>"
+        blogs_blogs:
+          attributes:
+            name: Blog
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019142243_settings:
+            announcement:
+        budgets_budgets:
+          attributes:
+            name: Budgets
+          global_settings:
+            announcement:
+            landing_page_content: "<h2>Non natus et possimus.</h2><p>Recusandae doloremque
+              consequatur. Excepturi earum aut. Doloribus fugiat numquam.</p><p>Maxime
+              quia possimus. Voluptates sed impedit. Odit ut qui.</p>"
+            more_information_modal: Est distinctio et. Aut ratione blanditiis. Harum
+              iste dolores. Aspernatur in eum.
+          steps_participatory_process_step_20251019142243_settings:
+            announcement:
+            landing_page_content:
+            more_information_modal:
+        debates_debates:
+          attributes:
+            name: Debates
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019142243_settings:
+            announcement:
+        meetings_meetings:
+          attributes:
+            name: Meetings
+          global_settings:
+            announcement:
+            default_registration_terms:
+          steps_participatory_process_step_20251019142243_settings:
+            announcement:
+        pages_pages:
+          attributes:
+            name: Page
+            pages:
+              page_20251019142441:
+                attributes:
+                  body: "<p>Corrupti nihil ipsam. Et animi doloremque. Odit sit nam.</p>"
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019142243_settings:
+            announcement:
+        proposals_proposals:
+          attributes:
+            name: Proposals
+            proposal_states:
+              proposal_state_1:
+                attributes:
+                  title: Evaluating
+                  announcement_title: This proposal is being evaluated
+              proposal_state_2:
+                attributes:
+                  title: Accepted
+                  announcement_title: 'This proposal has been accepted because:'
+              proposal_state_3:
+                attributes:
+                  title: Rejected
+                  announcement_title: 'This proposal has been rejected because:'
+            proposals:
+              proposal_20251019142441:
+                attributes:
+                  title:
+                  body: Asperiores consequuntur odio. Aut totam qui. Voluptatem distinctio
+                    nulla.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251019142447:
+                attributes:
+                  title: Doloribus accusantium.
+                  body: Odit recusandae error.
+                  answer: Rerum voluptatum accusantium sed sit debitis voluptatem
+                    inventore voluptatem ab.
+                  cost_report:
+                  execution_period:
+              proposal_20251019142444:
+                attributes:
+                  title: Distinctio voluptas.
+                  body: Ea maxime sequi.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251019142445:
+                attributes:
+                  title:
+                  body: Et accusantium et. Quia accusamus omnis. Dolores minima sint.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251019142449:
+                attributes:
+                  title: Omnis temporibus.
+                  body: Dolorem maiores dignissimos.
+                  answer:
+                  cost_report:
+                  execution_period:
+              proposal_20251019142454:
+                attributes:
+                  title: Ut aliquam.
+                  body: Ipsa pariatur nihil.
+                  answer:
+                  cost_report:
+                  execution_period:
+          global_settings:
+            amendments_wizard_help_text:
+            announcement:
+            new_proposal_body_template:
+            new_proposal_help_text:
+            proposal_wizard_step_1_help_text:
+            proposal_wizard_step_2_help_text:
+          steps_participatory_process_step_20251019142243_settings:
+            announcement:
+        sortitions_sortitions:
+          attributes:
+            name: Sortitions
+        surveys_surveys:
+          attributes:
+            name: Surveys
+          global_settings:
+            announcement:
+          steps_participatory_process_step_20251019142243_settings:
+            announcement:
+      content_blocks:
+        participatory_process_group_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+        participatory_process_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+        assembly_homepage_hero:
+          settings:
+            button_text:
+            button_url:
+      steps:
+        participatory_process_step_20251019142243:
+          attributes:
+            title: Itaque officiis.
+            description: "<p>Nostrum tempore fugiat. Quam non cum. Incidunt quasi
+              rem.</p>"
+    metadata:
+      name: demo survey
+      description: short description

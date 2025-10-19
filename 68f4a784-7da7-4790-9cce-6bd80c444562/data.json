@@ -1,0 +1,1129 @@
+{
+  "id": "68f4a784-7da7-4790-9cce-6bd80c444562",
+  "@class": "Decidim::ParticipatoryProcess",
+  "attributes": {
+    "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.title",
+    "subtitle": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.subtitle",
+    "slug": "theorist-relationship",
+    "short_description": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.short_description",
+    "description": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.description",
+    "announcement": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.announcement",
+    "start_date_relative": -56254,
+    "end_date_relative": 5214146,
+    "developer_group": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.developer_group",
+    "local_area": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.local_area",
+    "meta_scope": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.meta_scope",
+    "target": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.target",
+    "participatory_scope": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.participatory_scope",
+    "participatory_structure": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.participatory_structure",
+    "private_space": false,
+    "promoted": true,
+    "components": [
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.accountability_accountability",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "accountability",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.accountability_accountability.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": [
+                3
+              ]
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "intro",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.accountability_accountability.global_settings.intro"
+            },
+            {
+              "type": "display_progress_enabled",
+              "value": true
+            },
+            {
+              "type": "geocoding_enabled",
+              "value": false
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "comments_blocked",
+                "value": false
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4490,
+          "resources": []
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.blogs_blogs",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "blogs",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.blogs_blogs.attributes.name",
+          "global_settings": [
+            {
+              "type": "announcement",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.blogs_blogs.global_settings.announcement"
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "creation_enabled_for_participants",
+              "value": false
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "announcement",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.blogs_blogs.steps_participatory_process_step_20251019142243_settings.announcement"
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "endorsements_enabled",
+                "value": true
+              },
+              {
+                "type": "endorsements_blocked",
+                "value": false
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4406,
+          "resources": []
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "budgets",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "workflow",
+              "value": "all"
+            },
+            {
+              "type": "projects_per_page",
+              "value": 12
+            },
+            {
+              "type": "vote_rule_threshold_percent_enabled",
+              "value": true
+            },
+            {
+              "type": "vote_threshold_percent",
+              "value": 70
+            },
+            {
+              "type": "vote_rule_minimum_budget_projects_enabled",
+              "value": false
+            },
+            {
+              "type": "vote_minimum_budget_projects_number",
+              "value": 1
+            },
+            {
+              "type": "vote_rule_selected_projects_enabled",
+              "value": false
+            },
+            {
+              "type": "vote_selected_projects_minimum",
+              "value": 0
+            },
+            {
+              "type": "vote_selected_projects_maximum",
+              "value": 1
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "geocoding_enabled",
+              "value": false
+            },
+            {
+              "type": "resources_permissions_enabled",
+              "value": true
+            },
+            {
+              "type": "announcement",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets.global_settings.announcement"
+            },
+            {
+              "type": "landing_page_content",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets.global_settings.landing_page_content"
+            },
+            {
+              "type": "more_information_modal",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets.global_settings.more_information_modal"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "votes",
+                "value": "enabled"
+              },
+              {
+                "type": "show_votes",
+                "value": false
+              },
+              {
+                "type": "announcement",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets.steps_participatory_process_step_20251019142243_settings.announcement"
+              },
+              {
+                "type": "landing_page_content",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets.steps_participatory_process_step_20251019142243_settings.landing_page_content"
+              },
+              {
+                "type": "more_information_modal",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.budgets_budgets.steps_participatory_process_step_20251019142243_settings.more_information_modal"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4394,
+          "resources": []
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.debates_debates",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "debates",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.debates_debates.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "announcement",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.debates_debates.global_settings.announcement"
+            },
+            {
+              "type": "attachments_allowed",
+              "value": false
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "endorsements_enabled",
+                "value": true
+              },
+              {
+                "type": "endorsements_blocked",
+                "value": false
+              },
+              {
+                "type": "creation_enabled",
+                "value": false
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "announcement",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.debates_debates.steps_participatory_process_step_20251019142243_settings.announcement"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4392,
+          "resources": []
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.meetings_meetings",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "meetings",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.meetings_meetings.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "announcement",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.meetings_meetings.global_settings.announcement"
+            },
+            {
+              "type": "default_registration_terms",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.meetings_meetings.global_settings.default_registration_terms"
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "registration_code_enabled",
+              "value": true
+            },
+            {
+              "type": "resources_permissions_enabled",
+              "value": true
+            },
+            {
+              "type": "enable_pads_creation",
+              "value": false
+            },
+            {
+              "type": "creation_enabled_for_participants",
+              "value": false
+            },
+            {
+              "type": "maps_enabled",
+              "value": true
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "announcement",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.meetings_meetings.steps_participatory_process_step_20251019142243_settings.announcement"
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4389,
+          "resources": []
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.pages_pages",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "pages",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.pages_pages.attributes.name",
+          "global_settings": [
+            {
+              "type": "announcement",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.pages_pages.global_settings.announcement"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "announcement",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.pages_pages.steps_participatory_process_step_20251019142243_settings.announcement"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4373,
+          "resources": [
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.pages_pages.attributes.pages.page_20251019142441",
+              "@class": "Decidim::Pages::Page",
+              "attributes": {
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.pages_pages.attributes.pages.page_20251019142441.attributes.body",
+                "created_at_relative": -4373,
+                "updated_at_relative": -4373,
+                "deleted_at_relative": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "proposals",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "vote_limit",
+              "value": 0
+            },
+            {
+              "type": "minimum_votes_per_user",
+              "value": 0
+            },
+            {
+              "type": "proposal_limit",
+              "value": 0
+            },
+            {
+              "type": "proposal_length",
+              "value": 500
+            },
+            {
+              "type": "proposal_edit_time",
+              "value": "limited"
+            },
+            {
+              "type": "edit_time",
+              "value": [
+                5,
+                "minutes"
+              ]
+            },
+            {
+              "type": "threshold_per_proposal",
+              "value": 0
+            },
+            {
+              "type": "can_accumulate_votes_beyond_threshold",
+              "value": false
+            },
+            {
+              "type": "proposal_answering_enabled",
+              "value": true
+            },
+            {
+              "type": "default_sort_order",
+              "value": "automatic"
+            },
+            {
+              "type": "official_proposals_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "geocoding_enabled",
+              "value": true
+            },
+            {
+              "type": "attachments_allowed",
+              "value": true
+            },
+            {
+              "type": "resources_permissions_enabled",
+              "value": true
+            },
+            {
+              "type": "collaborative_drafts_enabled",
+              "value": true
+            },
+            {
+              "type": "participatory_texts_enabled",
+              "value": false
+            },
+            {
+              "type": "amendments_enabled",
+              "value": true
+            },
+            {
+              "type": "amendments_wizard_help_text",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.global_settings.amendments_wizard_help_text"
+            },
+            {
+              "type": "announcement",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.global_settings.announcement"
+            },
+            {
+              "type": "new_proposal_body_template",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.global_settings.new_proposal_body_template"
+            },
+            {
+              "type": "new_proposal_help_text",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.global_settings.new_proposal_help_text"
+            },
+            {
+              "type": "proposal_wizard_step_1_help_text",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.global_settings.proposal_wizard_step_1_help_text"
+            },
+            {
+              "type": "proposal_wizard_step_2_help_text",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.global_settings.proposal_wizard_step_2_help_text"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "endorsements_enabled",
+                "value": true
+              },
+              {
+                "type": "endorsements_blocked",
+                "value": false
+              },
+              {
+                "type": "votes_enabled",
+                "value": true
+              },
+              {
+                "type": "votes_blocked",
+                "value": false
+              },
+              {
+                "type": "votes_hidden",
+                "value": false
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "creation_enabled",
+                "value": true
+              },
+              {
+                "type": "proposal_answering_enabled",
+                "value": true
+              },
+              {
+                "type": "publish_answers_immediately",
+                "value": true
+              },
+              {
+                "type": "answers_with_costs",
+                "value": false
+              },
+              {
+                "type": "default_sort_order",
+                "value": null
+              },
+              {
+                "type": "amendment_creation_enabled",
+                "value": true
+              },
+              {
+                "type": "amendment_reaction_enabled",
+                "value": true
+              },
+              {
+                "type": "amendment_promotion_enabled",
+                "value": true
+              },
+              {
+                "type": "amendments_visibility",
+                "value": "all"
+              },
+              {
+                "type": "announcement",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.steps_participatory_process_step_20251019142243_settings.announcement"
+              },
+              {
+                "type": "automatic_hashtags",
+                "value": null
+              },
+              {
+                "type": "suggested_hashtags",
+                "value": null
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4373,
+          "resources": [
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1",
+              "@class": "Decidim::Proposals::ProposalState",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1.attributes.title",
+                "announcement_title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1.attributes.announcement_title",
+                "bg_color": "#FFF1E5",
+                "text_color": "#BC4C00",
+                "token": "evaluating"
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_2",
+              "@class": "Decidim::Proposals::ProposalState",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_2.attributes.title",
+                "announcement_title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_2.attributes.announcement_title",
+                "bg_color": "#E3FCE9",
+                "text_color": "#15602C",
+                "token": "accepted"
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_3",
+              "@class": "Decidim::Proposals::ProposalState",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_3.attributes.title",
+                "announcement_title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_3.attributes.announcement_title",
+                "bg_color": "#FFEBE9",
+                "text_color": "#D1242F",
+                "token": "rejected"
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.body",
+                "created_at_relative": -4373,
+                "updated_at_relative": -3981,
+                "proposal_votes_count": 0,
+                "answered_at_relative": null,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.answer",
+                "reference": "DO-PROP-2025-10-1",
+                "address": "90581 Rau Point 11637 New Minnie",
+                "latitude": -65.78421313015161,
+                "longitude": 170.89628804687328,
+                "published_at_relative": -4373,
+                "participatory_text_level": null,
+                "position": 1,
+                "endorsements_count": 45,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.execution_period",
+                "state_id": null,
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.body",
+                "created_at_relative": -4367,
+                "updated_at_relative": -4133,
+                "proposal_votes_count": 1,
+                "answered_at_relative": -4367,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.answer",
+                "reference": "DO-PROP-2025-10-6",
+                "address": null,
+                "latitude": null,
+                "longitude": null,
+                "published_at_relative": -4367,
+                "participatory_text_level": null,
+                "position": 6,
+                "endorsements_count": 39,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.execution_period",
+                "state_id": "proposal_state_1",
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142444",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142444.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142444.attributes.body",
+                "created_at_relative": -4370,
+                "updated_at_relative": -4369,
+                "proposal_votes_count": 1,
+                "answered_at_relative": null,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142444.attributes.answer",
+                "reference": "DO-PROP-2025-10-3",
+                "address": "62507 Ryan Forest 79733-2607 West Kimberlishire",
+                "latitude": -6.168365373534925,
+                "longitude": -176.07590706229905,
+                "published_at_relative": -4370,
+                "participatory_text_level": null,
+                "position": 3,
+                "endorsements_count": 34,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142444.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142444.attributes.execution_period",
+                "state_id": null,
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.body",
+                "created_at_relative": -4373,
+                "updated_at_relative": -4133,
+                "proposal_votes_count": 1,
+                "answered_at_relative": -4373,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.answer",
+                "reference": "DO-PROP-2025-10-2",
+                "address": null,
+                "latitude": null,
+                "longitude": null,
+                "published_at_relative": -4373,
+                "participatory_text_level": null,
+                "position": 2,
+                "endorsements_count": 44,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142441.attributes.execution_period",
+                "state_id": "proposal_state_1",
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142445",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142445.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142445.attributes.body",
+                "created_at_relative": -4369,
+                "updated_at_relative": -4369,
+                "proposal_votes_count": 1,
+                "answered_at_relative": -4369,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142445.attributes.answer",
+                "reference": "DO-PROP-2025-10-4",
+                "address": null,
+                "latitude": null,
+                "longitude": null,
+                "published_at_relative": -4369,
+                "participatory_text_level": null,
+                "position": 4,
+                "endorsements_count": 26,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142445.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142445.attributes.execution_period",
+                "state_id": "proposal_state_1",
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142449",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142449.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142449.attributes.body",
+                "created_at_relative": -4365,
+                "updated_at_relative": -4363,
+                "proposal_votes_count": 0,
+                "answered_at_relative": -4365,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142449.attributes.answer",
+                "reference": "DO-PROP-2025-10-7",
+                "address": "192 Sherwood Courts 00839 Lake Palmerberg",
+                "latitude": 68.65465441393803,
+                "longitude": 125.1661195953755,
+                "published_at_relative": -4365,
+                "participatory_text_level": null,
+                "position": 7,
+                "endorsements_count": 31,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142449.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142449.attributes.execution_period",
+                "state_id": "proposal_state_3",
+                "state_published_at_relative": -4365,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142454",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142454.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142454.attributes.body",
+                "created_at_relative": -4360,
+                "updated_at_relative": -4357,
+                "proposal_votes_count": 1,
+                "answered_at_relative": -4360,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142454.attributes.answer",
+                "reference": "DO-PROP-2025-10-8",
+                "address": "838 Pok Court 46611-0701 Seanton",
+                "latitude": 40.829982591555364,
+                "longitude": 155.41429170657136,
+                "published_at_relative": -4360,
+                "participatory_text_level": null,
+                "position": 8,
+                "endorsements_count": 28,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142454.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142454.attributes.execution_period",
+                "state_id": "proposal_state_1",
+                "state_published_at_relative": -4360,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.title",
+                "body": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.body",
+                "created_at_relative": -4367,
+                "updated_at_relative": -4366,
+                "proposal_votes_count": 2,
+                "answered_at_relative": -4367,
+                "answer": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.answer",
+                "reference": "DO-PROP-2025-10-5",
+                "address": "2925 Samual Crossing 51545-1272 Claireshire",
+                "latitude": -43.74520626461606,
+                "longitude": 34.55150462384947,
+                "published_at_relative": -4367,
+                "participatory_text_level": null,
+                "position": 5,
+                "endorsements_count": 48,
+                "cost": null,
+                "cost_report": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.cost_report",
+                "execution_period": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.proposals_proposals.attributes.proposals.proposal_20251019142447.attributes.execution_period",
+                "state_id": "proposal_state_2",
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.sortitions_sortitions",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "sortitions",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.sortitions_sortitions.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": []
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4356,
+          "resources": []
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.surveys_surveys",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "surveys",
+          "name": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.surveys_surveys.attributes.name",
+          "global_settings": [
+            {
+              "type": "announcement",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.surveys_surveys.global_settings.announcement"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_20251019142243": [
+              {
+                "type": "announcement",
+                "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.components.surveys_surveys.steps_participatory_process_step_20251019142243_settings.announcement"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -4356,
+          "resources": []
+        }
+      }
+    ],
+    "hero_image": "wla0ykrqs00zytbxkzvyr0hpnxbxut09_20251019142243.jpeg",
+    "content_blocks": [
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_title",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "title",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 10,
+          "images_container": {},
+          "published_at_relative": -4491
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_extra_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "extra_data",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -4491
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_hero",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "hero",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "button_text",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_hero.settings.button_text"
+            },
+            {
+              "type": "button_url",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_hero.settings.button_url"
+            }
+          ],
+          "weight": 30,
+          "images_container": {
+            "background_image": null
+          },
+          "published_at_relative": -4491
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_stats",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "stats",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 40,
+          "images_container": {},
+          "published_at_relative": -4491
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_highlighted_meetings",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "highlighted_meetings",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "order",
+              "value": "random"
+            },
+            {
+              "type": "show_space",
+              "value": true
+            }
+          ],
+          "weight": 50,
+          "images_container": {},
+          "published_at_relative": -4491
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_group_homepage_highlighted_results",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "highlighted_results",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "order",
+              "value": "random"
+            },
+            {
+              "type": "show_space",
+              "value": true
+            }
+          ],
+          "weight": 60,
+          "images_container": {},
+          "published_at_relative": -4491
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_homepage_hero",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "hero",
+          "scope_name": "participatory_process_homepage",
+          "settings": [
+            {
+              "type": "button_text",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_homepage_hero.settings.button_text"
+            },
+            {
+              "type": "button_url",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_homepage_hero.settings.button_url"
+            }
+          ],
+          "weight": 10,
+          "images_container": {
+            "background_image": null
+          },
+          "published_at_relative": -4490
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_homepage_main_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "main_data",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -4490
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.participatory_process_homepage_metadata",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "metadata",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 30,
+          "images_container": {},
+          "published_at_relative": -4490
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.assembly_homepage_hero",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "hero",
+          "scope_name": "assembly_homepage",
+          "settings": [
+            {
+              "type": "button_text",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.assembly_homepage_hero.settings.button_text"
+            },
+            {
+              "type": "button_url",
+              "value": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.assembly_homepage_hero.settings.button_url"
+            }
+          ],
+          "weight": 10,
+          "images_container": {
+            "background_image": null
+          },
+          "published_at_relative": -3951
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.assembly_homepage_main_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "main_data",
+          "scope_name": "assembly_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -3951
+        }
+      },
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.content_blocks.assembly_homepage_metadata",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "metadata",
+          "scope_name": "assembly_homepage",
+          "settings": [],
+          "weight": 30,
+          "images_container": {},
+          "published_at_relative": -3951
+        }
+      }
+    ],
+    "steps": [
+      {
+        "id": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.steps.participatory_process_step_20251019142243",
+        "@class": "Decidim::ParticipatoryProcessStep",
+        "attributes": {
+          "title": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.steps.participatory_process_step_20251019142243.attributes.title",
+          "description": "68f4a784-7da7-4790-9cce-6bd80c444562.attributes.steps.participatory_process_step_20251019142243.attributes.description",
+          "position": 0,
+          "start_date_relative": -2596491,
+          "end_date_relative": 5265909
+        }
+      }
+    ]
+  },
+  "name": "68f4a784-7da7-4790-9cce-6bd80c444562.metadata.name",
+  "description": "68f4a784-7da7-4790-9cce-6bd80c444562.metadata.description",
+  "version": "v0.1",
+  "id": "68f4a784-7da7-4790-9cce-6bd80c444562",
+  "default_locale": "en",
+  "author": "demo",
+  "links": [],
+  "@class": "Decidim::ParticipatoryProcess",
+  "community_templates_version": "0.0.1-rc4",
+  "decidim_version": "0.30.1",
+  "archived_at": null,
+  "updated_at": "2025-10-19 15:37:34 UTC",
+  "created_at": "2025-10-19 15:37:34 UTC",
+  "decidim_version": "0.30.1",
+  "community_templates_version": "0.0.1-rc4"
+}
