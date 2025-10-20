@@ -8,8 +8,8 @@
     "short_description": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.short_description",
     "description": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.description",
     "announcement": null,
-    "start_date_relative": -18808,
-    "end_date_relative": 5251592,
+    "start_date_relative": -18846,
+    "end_date_relative": 5251554,
     "developer_group": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.developer_group",
     "local_area": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.local_area",
     "meta_scope": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.meta_scope",
@@ -63,7 +63,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1149,
+          "published_at_relative": -1187,
           "resources": []
         }
       },
@@ -113,7 +113,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1094,
+          "published_at_relative": -1132,
           "resources": []
         }
       },
@@ -223,7 +223,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1077,
+          "published_at_relative": -1114,
           "resources": []
         }
       },
@@ -281,7 +281,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1064,
+          "published_at_relative": -1101,
           "resources": []
         }
       },
@@ -347,7 +347,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1060,
+          "published_at_relative": -1097,
           "resources": []
         }
       },
@@ -373,15 +373,15 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1039,
+          "published_at_relative": -1076,
           "resources": [
             {
               "id": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.pages_pages.attributes.pages.page_20251020045610",
               "@class": "Decidim::Pages::Page",
               "attributes": {
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.pages_pages.attributes.pages.page_20251020045610.attributes.body",
-                "created_at_relative": -1039,
-                "updated_at_relative": -1039,
+                "created_at_relative": -1076,
+                "updated_at_relative": -1076,
                 "deleted_at_relative": null
               }
             }
@@ -581,7 +581,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1039,
+          "published_at_relative": -1076,
           "resources": [
             {
               "id": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1",
@@ -622,16 +622,16 @@
               "attributes": {
                 "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045610.attributes.title",
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045610.attributes.body",
-                "created_at_relative": -1039,
-                "updated_at_relative": -1038,
+                "created_at_relative": -1076,
+                "updated_at_relative": -1075,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1039,
+                "answered_at_relative": -1076,
                 "answer": null,
                 "reference": "Ret.-PROP-2025-10-2",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1039,
+                "published_at_relative": -1076,
                 "participatory_text_level": null,
                 "position": 2,
                 "endorsements_count": 0,
@@ -650,16 +650,16 @@
               "attributes": {
                 "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045612.attributes.title",
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045612.attributes.body",
-                "created_at_relative": -1037,
-                "updated_at_relative": -1033,
+                "created_at_relative": -1074,
+                "updated_at_relative": -1070,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1037,
+                "answered_at_relative": -1074,
                 "answer": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045612.attributes.answer",
                 "reference": "Ret.-PROP-2025-10-3",
                 "address": "17108 Koelpin Parks 53172-9984 Phyliciaport",
                 "latitude": -53.44935557743895,
                 "longitude": 97.16852556079061,
-                "published_at_relative": -1037,
+                "published_at_relative": -1074,
                 "participatory_text_level": null,
                 "position": 3,
                 "endorsements_count": 0,
@@ -667,7 +667,7 @@
                 "cost_report": null,
                 "execution_period": null,
                 "state_id": "proposal_state_2",
-                "state_published_at_relative": -1037,
+                "state_published_at_relative": -1074,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -678,16 +678,16 @@
               "attributes": {
                 "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045621.attributes.title",
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045621.attributes.body",
-                "created_at_relative": -1028,
-                "updated_at_relative": -1026,
+                "created_at_relative": -1065,
+                "updated_at_relative": -1063,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -1028,
+                "answered_at_relative": -1065,
                 "answer": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045621.attributes.answer",
                 "reference": "Ret.-PROP-2025-10-5",
                 "address": "596 Shenika Burg 24390-2116 Phebemouth",
                 "latitude": -86.43759901679125,
                 "longitude": 100.50761024530709,
-                "published_at_relative": -1028,
+                "published_at_relative": -1065,
                 "participatory_text_level": null,
                 "position": 5,
                 "endorsements_count": 0,
@@ -706,16 +706,16 @@
               "attributes": {
                 "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045610.attributes.title",
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045610.attributes.body",
-                "created_at_relative": -1039,
-                "updated_at_relative": -1018,
+                "created_at_relative": -1076,
+                "updated_at_relative": -1055,
                 "proposal_votes_count": 0,
-                "answered_at_relative": -1039,
+                "answered_at_relative": -1076,
                 "answer": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045610.attributes.answer",
                 "reference": "Ret.-PROP-2025-10-1",
                 "address": "51245 Cara Radial 23979 Jacintoside",
                 "latitude": 58.30207400812361,
                 "longitude": 60.93716343334734,
-                "published_at_relative": -1039,
+                "published_at_relative": -1076,
                 "participatory_text_level": null,
                 "position": 1,
                 "endorsements_count": 0,
@@ -734,16 +734,16 @@
               "attributes": {
                 "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045621.attributes.title",
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045621.attributes.body",
-                "created_at_relative": -1028,
-                "updated_at_relative": -1027,
+                "created_at_relative": -1065,
+                "updated_at_relative": -1064,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1028,
+                "answered_at_relative": -1065,
                 "answer": null,
                 "reference": "Ret.-PROP-2025-10-6",
                 "address": null,
                 "latitude": null,
                 "longitude": null,
-                "published_at_relative": -1028,
+                "published_at_relative": -1065,
                 "participatory_text_level": null,
                 "position": 6,
                 "endorsements_count": 0,
@@ -762,16 +762,16 @@
               "attributes": {
                 "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045627.attributes.title",
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045627.attributes.body",
-                "created_at_relative": -1022,
-                "updated_at_relative": -1020,
+                "created_at_relative": -1059,
+                "updated_at_relative": -1057,
                 "proposal_votes_count": 1,
-                "answered_at_relative": -1022,
+                "answered_at_relative": -1059,
                 "answer": null,
                 "reference": "Ret.-PROP-2025-10-7",
                 "address": "3203 Fermin Forest 60890 Dickifurt",
                 "latitude": 9.090169425261138,
                 "longitude": 31.537654657938873,
-                "published_at_relative": -1022,
+                "published_at_relative": -1059,
                 "participatory_text_level": null,
                 "position": 7,
                 "endorsements_count": 0,
@@ -779,7 +779,7 @@
                 "cost_report": null,
                 "execution_period": null,
                 "state_id": "proposal_state_1",
-                "state_published_at_relative": -1022,
+                "state_published_at_relative": -1059,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -790,16 +790,16 @@
               "attributes": {
                 "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045618.attributes.title",
                 "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045618.attributes.body",
-                "created_at_relative": -1031,
-                "updated_at_relative": -1018,
+                "created_at_relative": -1068,
+                "updated_at_relative": -1055,
                 "proposal_votes_count": 2,
-                "answered_at_relative": -1031,
+                "answered_at_relative": -1068,
                 "answer": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.proposals_proposals.attributes.proposals.proposal_20251020045618.attributes.answer",
                 "reference": "Ret.-PROP-2025-10-4",
                 "address": "85059 Vernon Avenue 71476-9124 South Temeka",
                 "latitude": -45.12372627717907,
                 "longitude": -68.29117513028378,
-                "published_at_relative": -1031,
+                "published_at_relative": -1068,
                 "participatory_text_level": null,
                 "position": 4,
                 "endorsements_count": 0,
@@ -807,7 +807,7 @@
                 "cost_report": null,
                 "execution_period": null,
                 "state_id": "proposal_state_2",
-                "state_published_at_relative": -1031,
+                "state_published_at_relative": -1068,
                 "withdrawn_at_relative": null,
                 "deleted_at_relative": null
               }
@@ -840,7 +840,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1018,
+          "published_at_relative": -1055,
           "resources": []
         }
       },
@@ -866,7 +866,7 @@
           },
           "default_step_settings": [],
           "weight": 0,
-          "published_at_relative": -1018,
+          "published_at_relative": -1055,
           "resources": [
             {
               "id": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631",
@@ -874,9 +874,9 @@
               "attributes": {
                 "starts_at_relative": null,
                 "ends_at_relative": null,
-                "published_at_relative": -1018,
-                "created_at_relative": -1018,
-                "updated_at_relative": -1018,
+                "published_at_relative": -1055,
+                "created_at_relative": -1055,
+                "updated_at_relative": -1055,
                 "deleted_at_relative": null,
                 "allow_answers": false,
                 "allow_unregistered": null,
@@ -891,8 +891,8 @@
                     "description": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.description",
                     "tos": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.tos",
                     "published_at_relative": null,
-                    "created_at_relative": -1018,
-                    "updated_at_relative": -1018,
+                    "created_at_relative": -1055,
+                    "updated_at_relative": -1055,
                     "questions": [
                       {
                         "id": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631",
@@ -903,8 +903,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -972,8 +972,8 @@
                           "mandatory": true,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -991,8 +991,8 @@
                           "mandatory": false,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1010,8 +1010,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1079,8 +1079,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1121,8 +1121,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1018,
-                                "updated_at_relative": -1018
+                                "created_at_relative": -1055,
+                                "updated_at_relative": -1055
                               }
                             }
                           ]
@@ -1137,8 +1137,8 @@
                           "mandatory": false,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1156,8 +1156,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1198,8 +1198,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1018,
-                                "updated_at_relative": -1018
+                                "created_at_relative": -1055,
+                                "updated_at_relative": -1055
                               }
                             }
                           ]
@@ -1214,8 +1214,8 @@
                           "mandatory": null,
                           "body": null,
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1233,8 +1233,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045631.attributes.questionnaire.questionnaire_20251020045631.attributes.questions.question_20251020045631.attributes.body",
                           "description": null,
-                          "created_at_relative": -1018,
-                          "updated_at_relative": -1018,
+                          "created_at_relative": -1055,
+                          "updated_at_relative": -1055,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1275,8 +1275,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1018,
-                                "updated_at_relative": -1018
+                                "created_at_relative": -1055,
+                                "updated_at_relative": -1055
                               }
                             }
                           ]
@@ -1293,9 +1293,9 @@
               "attributes": {
                 "starts_at_relative": null,
                 "ends_at_relative": null,
-                "published_at_relative": -1006,
-                "created_at_relative": -1006,
-                "updated_at_relative": -1006,
+                "published_at_relative": -1043,
+                "created_at_relative": -1043,
+                "updated_at_relative": -1043,
                 "deleted_at_relative": null,
                 "allow_answers": true,
                 "allow_unregistered": null,
@@ -1310,8 +1310,8 @@
                     "description": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.description",
                     "tos": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.tos",
                     "published_at_relative": null,
-                    "created_at_relative": -1006,
-                    "updated_at_relative": -1006,
+                    "created_at_relative": -1043,
+                    "updated_at_relative": -1043,
                     "questions": [
                       {
                         "id": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643",
@@ -1322,8 +1322,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1391,8 +1391,8 @@
                           "mandatory": true,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1410,8 +1410,8 @@
                           "mandatory": false,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1429,8 +1429,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1498,8 +1498,8 @@
                           "mandatory": false,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1517,8 +1517,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1559,8 +1559,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1006,
-                                "updated_at_relative": -1006
+                                "created_at_relative": -1043,
+                                "updated_at_relative": -1043
                               }
                             }
                           ]
@@ -1575,8 +1575,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1617,8 +1617,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1006,
-                                "updated_at_relative": -1006
+                                "created_at_relative": -1043,
+                                "updated_at_relative": -1043
                               }
                             }
                           ]
@@ -1633,8 +1633,8 @@
                           "mandatory": null,
                           "body": null,
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1652,8 +1652,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1694,8 +1694,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1006,
-                                "updated_at_relative": -1006
+                                "created_at_relative": -1043,
+                                "updated_at_relative": -1043
                               }
                             }
                           ]
@@ -1712,9 +1712,9 @@
               "attributes": {
                 "starts_at_relative": null,
                 "ends_at_relative": null,
-                "published_at_relative": -1006,
-                "created_at_relative": -1006,
-                "updated_at_relative": -1006,
+                "published_at_relative": -1043,
+                "created_at_relative": -1043,
+                "updated_at_relative": -1043,
                 "deleted_at_relative": null,
                 "allow_answers": false,
                 "allow_unregistered": null,
@@ -1729,8 +1729,8 @@
                     "description": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.description",
                     "tos": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.tos",
                     "published_at_relative": null,
-                    "created_at_relative": -1006,
-                    "updated_at_relative": -1006,
+                    "created_at_relative": -1043,
+                    "updated_at_relative": -1043,
                     "questions": [
                       {
                         "id": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643",
@@ -1741,8 +1741,8 @@
                           "mandatory": true,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1760,8 +1760,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1829,8 +1829,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1898,8 +1898,8 @@
                           "mandatory": false,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1917,8 +1917,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1959,8 +1959,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1006,
-                                "updated_at_relative": -1006
+                                "created_at_relative": -1043,
+                                "updated_at_relative": -1043
                               }
                             }
                           ]
@@ -1975,8 +1975,8 @@
                           "mandatory": false,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -1994,8 +1994,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -2036,8 +2036,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1006,
-                                "updated_at_relative": -1006
+                                "created_at_relative": -1043,
+                                "updated_at_relative": -1043
                               }
                             }
                           ]
@@ -2052,8 +2052,8 @@
                           "mandatory": null,
                           "body": null,
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -2071,8 +2071,8 @@
                           "mandatory": null,
                           "body": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.components.surveys_surveys.attributes.surveys.survey_20251020045643.attributes.questionnaire.questionnaire_20251020045643.attributes.questions.question_20251020045643.attributes.body",
                           "description": null,
-                          "created_at_relative": -1006,
-                          "updated_at_relative": -1006,
+                          "created_at_relative": -1043,
+                          "updated_at_relative": -1043,
                           "max_choices": null,
                           "max_characters": 0,
                           "survey_answers_published_at_relative": null,
@@ -2113,8 +2113,8 @@
                                 "condition_type": "answered",
                                 "condition_value": null,
                                 "mandatory": true,
-                                "created_at_relative": -1006,
-                                "updated_at_relative": -1006
+                                "created_at_relative": -1043,
+                                "updated_at_relative": -1043
                               }
                             }
                           ]
@@ -2140,7 +2140,7 @@
           "settings": [],
           "weight": 10,
           "images_container": {},
-          "published_at_relative": -1151
+          "published_at_relative": -1188
         }
       },
       {
@@ -2152,7 +2152,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -1151
+          "published_at_relative": -1188
         }
       },
       {
@@ -2175,7 +2175,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -1151
+          "published_at_relative": -1188
         }
       },
       {
@@ -2187,7 +2187,7 @@
           "settings": [],
           "weight": 40,
           "images_container": {},
-          "published_at_relative": -1151
+          "published_at_relative": -1188
         }
       },
       {
@@ -2208,7 +2208,7 @@
           ],
           "weight": 50,
           "images_container": {},
-          "published_at_relative": -1151
+          "published_at_relative": -1188
         }
       },
       {
@@ -2229,7 +2229,7 @@
           ],
           "weight": 60,
           "images_container": {},
-          "published_at_relative": -1151
+          "published_at_relative": -1188
         }
       },
       {
@@ -2252,7 +2252,7 @@
           "images_container": {
             "background_image": null
           },
-          "published_at_relative": -1150
+          "published_at_relative": -1187
         }
       },
       {
@@ -2264,7 +2264,7 @@
           "settings": [],
           "weight": 20,
           "images_container": {},
-          "published_at_relative": -1150
+          "published_at_relative": -1187
         }
       },
       {
@@ -2276,7 +2276,7 @@
           "settings": [],
           "weight": 30,
           "images_container": {},
-          "published_at_relative": -1150
+          "published_at_relative": -1187
         }
       }
     ],
@@ -2288,8 +2288,8 @@
           "title": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.steps.participatory_process_step_20251020045418.attributes.title",
           "description": "2331e351-fbe1-4947-b247-c9b4ccad2771.attributes.steps.participatory_process_step_20251020045418.attributes.description",
           "position": 0,
-          "start_date_relative": -2593151,
-          "end_date_relative": 5269249
+          "start_date_relative": -2593188,
+          "end_date_relative": 5269212
         }
       }
     ]
@@ -2306,9 +2306,9 @@
   "decidim_version": "0.30.1",
   "archived_at": null,
   "updated_at": null,
-  "created_at": "2025-10-20T05:13:28.978Z",
+  "created_at": "2025-10-20T05:14:06.439Z",
   "decidim_version": "0.30.1",
   "updated_at": null,
-  "created_at": "2025-10-20T05:13:28.978Z",
+  "created_at": "2025-10-20T05:14:06.439Z",
   "community_templates_version": "0.0.1-rc4"
 }
