@@ -1,0 +1,2282 @@
+{
+  "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce",
+  "@class": "Decidim::ParticipatoryProcess",
+  "attributes": {
+    "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.title",
+    "subtitle": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.subtitle",
+    "slug": "exaggerate-premium",
+    "short_description": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.short_description",
+    "description": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.description",
+    "announcement": null,
+    "start_date_relative": -39287,
+    "end_date_relative": 5231113,
+    "developer_group": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.developer_group",
+    "local_area": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.local_area",
+    "meta_scope": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.meta_scope",
+    "target": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.target",
+    "participatory_scope": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.participatory_scope",
+    "participatory_structure": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.participatory_structure",
+    "private_space": false,
+    "promoted": true,
+    "components": [
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.accountability_accountability",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "accountability",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.accountability_accountability.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": [
+                3
+              ]
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "intro",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.accountability_accountability.global_settings.intro"
+            },
+            {
+              "type": "display_progress_enabled",
+              "value": true
+            },
+            {
+              "type": "geocoding_enabled",
+              "value": false
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "comments_blocked",
+                "value": false
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -791,
+          "resources": []
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.blogs_blogs",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "blogs",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.blogs_blogs.attributes.name",
+          "global_settings": [
+            {
+              "type": "announcement",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.blogs_blogs.global_settings.announcement"
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "creation_enabled_for_participants",
+              "value": false
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "announcement",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.blogs_blogs.steps_participatory_process_step_2025102010411_settings.announcement"
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "endorsements_enabled",
+                "value": true
+              },
+              {
+                "type": "endorsements_blocked",
+                "value": false
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -727,
+          "resources": []
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "budgets",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "workflow",
+              "value": "random"
+            },
+            {
+              "type": "projects_per_page",
+              "value": 12
+            },
+            {
+              "type": "vote_rule_threshold_percent_enabled",
+              "value": true
+            },
+            {
+              "type": "vote_threshold_percent",
+              "value": 70
+            },
+            {
+              "type": "vote_rule_minimum_budget_projects_enabled",
+              "value": false
+            },
+            {
+              "type": "vote_minimum_budget_projects_number",
+              "value": 1
+            },
+            {
+              "type": "vote_rule_selected_projects_enabled",
+              "value": false
+            },
+            {
+              "type": "vote_selected_projects_minimum",
+              "value": 0
+            },
+            {
+              "type": "vote_selected_projects_maximum",
+              "value": 1
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "geocoding_enabled",
+              "value": true
+            },
+            {
+              "type": "resources_permissions_enabled",
+              "value": true
+            },
+            {
+              "type": "announcement",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets.global_settings.announcement"
+            },
+            {
+              "type": "landing_page_content",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets.global_settings.landing_page_content"
+            },
+            {
+              "type": "more_information_modal",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets.global_settings.more_information_modal"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "votes",
+                "value": "enabled"
+              },
+              {
+                "type": "show_votes",
+                "value": false
+              },
+              {
+                "type": "announcement",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets.steps_participatory_process_step_2025102010411_settings.announcement"
+              },
+              {
+                "type": "landing_page_content",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets.steps_participatory_process_step_2025102010411_settings.landing_page_content"
+              },
+              {
+                "type": "more_information_modal",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.budgets_budgets.steps_participatory_process_step_2025102010411_settings.more_information_modal"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -715,
+          "resources": []
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.debates_debates",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "debates",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.debates_debates.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "announcement",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.debates_debates.global_settings.announcement"
+            },
+            {
+              "type": "attachments_allowed",
+              "value": false
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "endorsements_enabled",
+                "value": true
+              },
+              {
+                "type": "endorsements_blocked",
+                "value": false
+              },
+              {
+                "type": "creation_enabled",
+                "value": false
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "announcement",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.debates_debates.steps_participatory_process_step_2025102010411_settings.announcement"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -713,
+          "resources": []
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.meetings_meetings",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "meetings",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.meetings_meetings.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "announcement",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.meetings_meetings.global_settings.announcement"
+            },
+            {
+              "type": "default_registration_terms",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.meetings_meetings.global_settings.default_registration_terms"
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "registration_code_enabled",
+              "value": true
+            },
+            {
+              "type": "resources_permissions_enabled",
+              "value": true
+            },
+            {
+              "type": "enable_pads_creation",
+              "value": false
+            },
+            {
+              "type": "creation_enabled_for_participants",
+              "value": false
+            },
+            {
+              "type": "maps_enabled",
+              "value": true
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "announcement",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.meetings_meetings.steps_participatory_process_step_2025102010411_settings.announcement"
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -712,
+          "resources": []
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.pages_pages",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "pages",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.pages_pages.attributes.name",
+          "global_settings": [
+            {
+              "type": "announcement",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.pages_pages.global_settings.announcement"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "announcement",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.pages_pages.steps_participatory_process_step_2025102010411_settings.announcement"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -693,
+          "resources": [
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.pages_pages.attributes.pages.page_2025102010431",
+              "@class": "Decidim::Pages::Page",
+              "attributes": {
+                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.pages_pages.attributes.pages.page_2025102010431.attributes.body",
+                "created_at_relative": -693,
+                "updated_at_relative": -693,
+                "deleted_at_relative": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "proposals",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "vote_limit",
+              "value": 0
+            },
+            {
+              "type": "minimum_votes_per_user",
+              "value": 0
+            },
+            {
+              "type": "proposal_limit",
+              "value": 0
+            },
+            {
+              "type": "proposal_length",
+              "value": 500
+            },
+            {
+              "type": "proposal_edit_time",
+              "value": "limited"
+            },
+            {
+              "type": "edit_time",
+              "value": [
+                5,
+                "minutes"
+              ]
+            },
+            {
+              "type": "threshold_per_proposal",
+              "value": 0
+            },
+            {
+              "type": "can_accumulate_votes_beyond_threshold",
+              "value": false
+            },
+            {
+              "type": "proposal_answering_enabled",
+              "value": true
+            },
+            {
+              "type": "default_sort_order",
+              "value": "automatic"
+            },
+            {
+              "type": "official_proposals_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            },
+            {
+              "type": "geocoding_enabled",
+              "value": true
+            },
+            {
+              "type": "attachments_allowed",
+              "value": false
+            },
+            {
+              "type": "resources_permissions_enabled",
+              "value": true
+            },
+            {
+              "type": "collaborative_drafts_enabled",
+              "value": true
+            },
+            {
+              "type": "participatory_texts_enabled",
+              "value": false
+            },
+            {
+              "type": "amendments_enabled",
+              "value": true
+            },
+            {
+              "type": "amendments_wizard_help_text",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.global_settings.amendments_wizard_help_text"
+            },
+            {
+              "type": "announcement",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.global_settings.announcement"
+            },
+            {
+              "type": "new_proposal_body_template",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.global_settings.new_proposal_body_template"
+            },
+            {
+              "type": "new_proposal_help_text",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.global_settings.new_proposal_help_text"
+            },
+            {
+              "type": "proposal_wizard_step_1_help_text",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.global_settings.proposal_wizard_step_1_help_text"
+            },
+            {
+              "type": "proposal_wizard_step_2_help_text",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.global_settings.proposal_wizard_step_2_help_text"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "endorsements_enabled",
+                "value": true
+              },
+              {
+                "type": "endorsements_blocked",
+                "value": false
+              },
+              {
+                "type": "votes_enabled",
+                "value": true
+              },
+              {
+                "type": "votes_blocked",
+                "value": false
+              },
+              {
+                "type": "votes_hidden",
+                "value": false
+              },
+              {
+                "type": "comments_blocked",
+                "value": false
+              },
+              {
+                "type": "creation_enabled",
+                "value": true
+              },
+              {
+                "type": "proposal_answering_enabled",
+                "value": true
+              },
+              {
+                "type": "publish_answers_immediately",
+                "value": true
+              },
+              {
+                "type": "answers_with_costs",
+                "value": false
+              },
+              {
+                "type": "default_sort_order",
+                "value": null
+              },
+              {
+                "type": "amendment_creation_enabled",
+                "value": true
+              },
+              {
+                "type": "amendment_reaction_enabled",
+                "value": true
+              },
+              {
+                "type": "amendment_promotion_enabled",
+                "value": true
+              },
+              {
+                "type": "amendments_visibility",
+                "value": "all"
+              },
+              {
+                "type": "announcement",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.steps_participatory_process_step_2025102010411_settings.announcement"
+              },
+              {
+                "type": "automatic_hashtags",
+                "value": null
+              },
+              {
+                "type": "suggested_hashtags",
+                "value": null
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -693,
+          "resources": [
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1",
+              "@class": "Decidim::Proposals::ProposalState",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1.attributes.title",
+                "announcement_title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_1.attributes.announcement_title",
+                "bg_color": "#FFF1E5",
+                "text_color": "#BC4C00",
+                "token": "evaluating"
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_2",
+              "@class": "Decidim::Proposals::ProposalState",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_2.attributes.title",
+                "announcement_title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_2.attributes.announcement_title",
+                "bg_color": "#E3FCE9",
+                "text_color": "#15602C",
+                "token": "accepted"
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_3",
+              "@class": "Decidim::Proposals::ProposalState",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_3.attributes.title",
+                "announcement_title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposal_states.proposal_state_3.attributes.announcement_title",
+                "bg_color": "#FFEBE9",
+                "text_color": "#D1242F",
+                "token": "rejected"
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010435",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010435.attributes.title",
+                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010435.attributes.body",
+                "created_at_relative": -680,
+                "updated_at_relative": -678,
+                "proposal_votes_count": 0,
+                "answered_at_relative": -680,
+                "answer": null,
+                "reference": "I-PROP-2025-10-5",
+                "address": "581 Howe Stream 53929-3997 North Niesha",
+                "latitude": 16.615714532674687,
+                "longitude": -115.73537126799516,
+                "published_at_relative": -680,
+                "participatory_text_level": null,
+                "position": 5,
+                "endorsements_count": 0,
+                "cost": null,
+                "cost_report": null,
+                "execution_period": null,
+                "state_id": "proposal_state_1",
+                "state_published_at_relative": -680,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010433",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010433.attributes.title",
+                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010433.attributes.body",
+                "created_at_relative": -688,
+                "updated_at_relative": -688,
+                "proposal_votes_count": 1,
+                "answered_at_relative": -688,
+                "answer": null,
+                "reference": "I-PROP-2025-10-3",
+                "address": "49564 Joesph Shoal 81398 North Juanstad",
+                "latitude": 88.66945769834535,
+                "longitude": 143.34524480751622,
+                "published_at_relative": -688,
+                "participatory_text_level": null,
+                "position": 3,
+                "endorsements_count": 0,
+                "cost": null,
+                "cost_report": null,
+                "execution_period": null,
+                "state_id": "proposal_state_1",
+                "state_published_at_relative": -688,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010432",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010432.attributes.title",
+                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010432.attributes.body",
+                "created_at_relative": -693,
+                "updated_at_relative": -692,
+                "proposal_votes_count": 1,
+                "answered_at_relative": -693,
+                "answer": null,
+                "reference": "I-PROP-2025-10-2",
+                "address": null,
+                "latitude": null,
+                "longitude": null,
+                "published_at_relative": -693,
+                "participatory_text_level": null,
+                "position": 2,
+                "endorsements_count": 0,
+                "cost": null,
+                "cost_report": null,
+                "execution_period": null,
+                "state_id": "proposal_state_1",
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010436",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010436.attributes.title",
+                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010436.attributes.body",
+                "created_at_relative": -676,
+                "updated_at_relative": -676,
+                "proposal_votes_count": 1,
+                "answered_at_relative": -676,
+                "answer": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010436.attributes.answer",
+                "reference": "I-PROP-2025-10-6",
+                "address": "8721 Brittani Rest 95239-5009 Nitzschemouth",
+                "latitude": 60.20374126429209,
+                "longitude": -159.4366207519875,
+                "published_at_relative": -676,
+                "participatory_text_level": null,
+                "position": 6,
+                "endorsements_count": 0,
+                "cost": null,
+                "cost_report": null,
+                "execution_period": null,
+                "state_id": "proposal_state_2",
+                "state_published_at_relative": -676,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010434",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010434.attributes.title",
+                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010434.attributes.body",
+                "created_at_relative": -685,
+                "updated_at_relative": -685,
+                "proposal_votes_count": 0,
+                "answered_at_relative": -685,
+                "answer": null,
+                "reference": "I-PROP-2025-10-4",
+                "address": "4868 Wilfred Court 70854-7041 West Lavern",
+                "latitude": 24.179778414572354,
+                "longitude": -69.23766281299979,
+                "published_at_relative": -685,
+                "participatory_text_level": null,
+                "position": 4,
+                "endorsements_count": 0,
+                "cost": null,
+                "cost_report": null,
+                "execution_period": null,
+                "state_id": "proposal_state_3",
+                "state_published_at_relative": -685,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010431",
+              "@class": "Decidim::Proposals::Proposal",
+              "attributes": {
+                "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010431.attributes.title",
+                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.proposals_proposals.attributes.proposals.proposal_2025102010431.attributes.body",
+                "created_at_relative": -693,
+                "updated_at_relative": -670,
+                "proposal_votes_count": 0,
+                "answered_at_relative": null,
+                "answer": null,
+                "reference": "I-PROP-2025-10-1",
+                "address": "29124 Major Neck 57666 Aufderharfort",
+                "latitude": -7.383705322516818,
+                "longitude": 174.81949626937717,
+                "published_at_relative": -693,
+                "participatory_text_level": null,
+                "position": 1,
+                "endorsements_count": 0,
+                "cost": null,
+                "cost_report": null,
+                "execution_period": null,
+                "state_id": null,
+                "state_published_at_relative": null,
+                "withdrawn_at_relative": null,
+                "deleted_at_relative": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.sortitions_sortitions",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "sortitions",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.sortitions_sortitions.attributes.name",
+          "global_settings": [
+            {
+              "type": "taxonomy_filters",
+              "value": []
+            },
+            {
+              "type": "comments_enabled",
+              "value": true
+            },
+            {
+              "type": "comments_max_length",
+              "value": 0
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": []
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -670,
+          "resources": []
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys",
+        "@class": "Decidim::Component",
+        "attributes": {
+          "manifest_name": "surveys",
+          "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.name",
+          "global_settings": [
+            {
+              "type": "announcement",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.global_settings.announcement"
+            }
+          ],
+          "step_settings": {
+            "participatory_process_step_2025102010411": [
+              {
+                "type": "announcement",
+                "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.steps_participatory_process_step_2025102010411_settings.announcement"
+              }
+            ]
+          },
+          "default_step_settings": [],
+          "weight": 0,
+          "published_at_relative": -670,
+          "resources": [
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431",
+              "@class": "Decidim::Surveys::Survey",
+              "attributes": {
+                "starts_at_relative": null,
+                "ends_at_relative": null,
+                "published_at_relative": -670,
+                "created_at_relative": -670,
+                "updated_at_relative": -670,
+                "deleted_at_relative": null,
+                "allow_answers": true,
+                "allow_unregistered": null,
+                "clean_after_publish": null,
+                "allow_editing_answers": null,
+                "announcement": null,
+                "questionnaire": {
+                  "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433",
+                  "@class": "Decidim::Forms::Questionnaire",
+                  "attributes": {
+                    "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.title",
+                    "description": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.description",
+                    "tos": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.tos",
+                    "published_at_relative": null,
+                    "created_at_relative": -670,
+                    "updated_at_relative": -670,
+                    "questions": [
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010431",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 0,
+                          "question_type": "short_answer",
+                          "mandatory": true,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010431.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 0,
+                          "question_type": "matrix_single",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.answer_options.answer_option_10",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.answer_options.answer_option_10.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.answer_options.answer_option_11",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.answer_options.answer_option_11.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.answer_options.answer_option_12",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.answer_options.answer_option_12.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.matrix_rows.question_matrix_row_1",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.matrix_rows.question_matrix_row_1.attributes.body",
+                                "position": 0
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.matrix_rows.question_matrix_row_2",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.matrix_rows.question_matrix_row_2.attributes.body",
+                                "position": 1
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.matrix_rows.question_matrix_row_3",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010437.attributes.matrix_rows.question_matrix_row_3.attributes.body",
+                                "position": 2
+                              }
+                            }
+                          ],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 1,
+                          "question_type": "matrix_multiple",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.answer_options.answer_option_13",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.answer_options.answer_option_13.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.answer_options.answer_option_14",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.answer_options.answer_option_14.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.answer_options.answer_option_15",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.answer_options.answer_option_15.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.matrix_rows.question_matrix_row_4",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.matrix_rows.question_matrix_row_4.attributes.body",
+                                "position": 0
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.matrix_rows.question_matrix_row_5",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.matrix_rows.question_matrix_row_5.attributes.body",
+                                "position": 1
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.matrix_rows.question_matrix_row_6",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010438.attributes.matrix_rows.question_matrix_row_6.attributes.body",
+                                "position": 2
+                              }
+                            }
+                          ],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010432",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 1,
+                          "question_type": "long_answer",
+                          "mandatory": false,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010432.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 2,
+                          "question_type": "single_option",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.answer_options.answer_option_1",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.answer_options.answer_option_1.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.answer_options.answer_option_2",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.answer_options.answer_option_2.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.answer_options.answer_option_3",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.answer_options.answer_option_3.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010434.attributes.display_conditions.display_condition_2025102010431",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_2025102010434",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -670,
+                                "updated_at_relative": -670
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010433",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 2,
+                          "question_type": "files",
+                          "mandatory": false,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010433.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 3,
+                          "question_type": "multiple_option",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.answer_options.answer_option_4",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.answer_options.answer_option_4.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.answer_options.answer_option_5",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.answer_options.answer_option_5.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.answer_options.answer_option_6",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.answer_options.answer_option_6.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010435.attributes.display_conditions.display_condition_2025102010432",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_2025102010435",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -670,
+                                "updated_at_relative": -670
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010439",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 3,
+                          "question_type": "separator",
+                          "mandatory": null,
+                          "body": null,
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 4,
+                          "question_type": "sorting",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.answer_options.answer_option_7",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.answer_options.answer_option_7.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.answer_options.answer_option_8",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.answer_options.answer_option_8.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.answer_options.answer_option_9",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.answer_options.answer_option_9.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010431.attributes.questionnaire.questionnaire_2025102010433.attributes.questions.question_2025102010436.attributes.display_conditions.display_condition_2025102010433",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_2025102010434",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -670,
+                                "updated_at_relative": -670
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432",
+              "@class": "Decidim::Surveys::Survey",
+              "attributes": {
+                "starts_at_relative": null,
+                "ends_at_relative": null,
+                "published_at_relative": -670,
+                "created_at_relative": -670,
+                "updated_at_relative": -670,
+                "deleted_at_relative": null,
+                "allow_answers": true,
+                "allow_unregistered": null,
+                "clean_after_publish": null,
+                "allow_editing_answers": null,
+                "announcement": null,
+                "questionnaire": {
+                  "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434",
+                  "@class": "Decidim::Forms::Questionnaire",
+                  "attributes": {
+                    "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.title",
+                    "description": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.description",
+                    "tos": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.tos",
+                    "published_at_relative": null,
+                    "created_at_relative": -670,
+                    "updated_at_relative": -670,
+                    "questions": [
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104310",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 0,
+                          "question_type": "short_answer",
+                          "mandatory": true,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104310.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 0,
+                          "question_type": "matrix_single",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.answer_options.answer_option_25",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.answer_options.answer_option_25.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.answer_options.answer_option_26",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.answer_options.answer_option_26.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.answer_options.answer_option_27",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.answer_options.answer_option_27.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.matrix_rows.question_matrix_row_7",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.matrix_rows.question_matrix_row_7.attributes.body",
+                                "position": 0
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.matrix_rows.question_matrix_row_8",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.matrix_rows.question_matrix_row_8.attributes.body",
+                                "position": 1
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.matrix_rows.question_matrix_row_9",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104316.attributes.matrix_rows.question_matrix_row_9.attributes.body",
+                                "position": 2
+                              }
+                            }
+                          ],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 1,
+                          "question_type": "matrix_multiple",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.answer_options.answer_option_28",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.answer_options.answer_option_28.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.answer_options.answer_option_29",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.answer_options.answer_option_29.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.answer_options.answer_option_30",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.answer_options.answer_option_30.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.matrix_rows.question_matrix_row_10",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.matrix_rows.question_matrix_row_10.attributes.body",
+                                "position": 0
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.matrix_rows.question_matrix_row_11",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.matrix_rows.question_matrix_row_11.attributes.body",
+                                "position": 1
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.matrix_rows.question_matrix_row_12",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104317.attributes.matrix_rows.question_matrix_row_12.attributes.body",
+                                "position": 2
+                              }
+                            }
+                          ],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104311",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 1,
+                          "question_type": "long_answer",
+                          "mandatory": false,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104311.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104312",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 2,
+                          "question_type": "files",
+                          "mandatory": false,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104312.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 2,
+                          "question_type": "single_option",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.answer_options.answer_option_16",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.answer_options.answer_option_16.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.answer_options.answer_option_17",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.answer_options.answer_option_17.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.answer_options.answer_option_18",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.answer_options.answer_option_18.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104313.attributes.display_conditions.display_condition_2025102010434",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_20251020104311",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -670,
+                                "updated_at_relative": -670
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 3,
+                          "question_type": "multiple_option",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.answer_options.answer_option_19",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.answer_options.answer_option_19.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.answer_options.answer_option_20",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.answer_options.answer_option_20.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.answer_options.answer_option_21",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.answer_options.answer_option_21.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104314.attributes.display_conditions.display_condition_2025102010435",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_20251020104310",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -670,
+                                "updated_at_relative": -670
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104318",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 3,
+                          "question_type": "separator",
+                          "mandatory": null,
+                          "body": null,
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 4,
+                          "question_type": "sorting",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.body",
+                          "description": null,
+                          "created_at_relative": -670,
+                          "updated_at_relative": -670,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.answer_options.answer_option_22",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.answer_options.answer_option_22.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.answer_options.answer_option_23",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.answer_options.answer_option_23.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.answer_options.answer_option_24",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.answer_options.answer_option_24.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010432.attributes.questionnaire.questionnaire_2025102010434.attributes.questions.question_20251020104315.attributes.display_conditions.display_condition_2025102010436",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_20251020104314",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -670,
+                                "updated_at_relative": -670
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433",
+              "@class": "Decidim::Surveys::Survey",
+              "attributes": {
+                "starts_at_relative": null,
+                "ends_at_relative": null,
+                "published_at_relative": -669,
+                "created_at_relative": -669,
+                "updated_at_relative": -669,
+                "deleted_at_relative": null,
+                "allow_answers": false,
+                "allow_unregistered": null,
+                "clean_after_publish": null,
+                "allow_editing_answers": null,
+                "announcement": null,
+                "questionnaire": {
+                  "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435",
+                  "@class": "Decidim::Forms::Questionnaire",
+                  "attributes": {
+                    "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.title",
+                    "description": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.description",
+                    "tos": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.tos",
+                    "published_at_relative": null,
+                    "created_at_relative": -669,
+                    "updated_at_relative": -669,
+                    "questions": [
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104319",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 0,
+                          "question_type": "short_answer",
+                          "mandatory": true,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104319.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 0,
+                          "question_type": "matrix_single",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.answer_options.answer_option_40",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.answer_options.answer_option_40.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.answer_options.answer_option_41",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.answer_options.answer_option_41.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.answer_options.answer_option_42",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.answer_options.answer_option_42.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.matrix_rows.question_matrix_row_13",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.matrix_rows.question_matrix_row_13.attributes.body",
+                                "position": 0
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.matrix_rows.question_matrix_row_14",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.matrix_rows.question_matrix_row_14.attributes.body",
+                                "position": 1
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.matrix_rows.question_matrix_row_15",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104325.attributes.matrix_rows.question_matrix_row_15.attributes.body",
+                                "position": 2
+                              }
+                            }
+                          ],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 1,
+                          "question_type": "matrix_multiple",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.answer_options.answer_option_43",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.answer_options.answer_option_43.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.answer_options.answer_option_44",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.answer_options.answer_option_44.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.answer_options.answer_option_45",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.answer_options.answer_option_45.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.matrix_rows.question_matrix_row_16",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.matrix_rows.question_matrix_row_16.attributes.body",
+                                "position": 0
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.matrix_rows.question_matrix_row_17",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.matrix_rows.question_matrix_row_17.attributes.body",
+                                "position": 1
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.matrix_rows.question_matrix_row_18",
+                              "@class": "Decidim::Forms::QuestionMatrixRow",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104326.attributes.matrix_rows.question_matrix_row_18.attributes.body",
+                                "position": 2
+                              }
+                            }
+                          ],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104320",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 1,
+                          "question_type": "long_answer",
+                          "mandatory": false,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104320.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104321",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 2,
+                          "question_type": "files",
+                          "mandatory": false,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104321.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 2,
+                          "question_type": "single_option",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.answer_options.answer_option_31",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.answer_options.answer_option_31.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.answer_options.answer_option_32",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.answer_options.answer_option_32.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.answer_options.answer_option_33",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.answer_options.answer_option_33.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104322.attributes.display_conditions.display_condition_2025102010437",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_20251020104320",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -669,
+                                "updated_at_relative": -669
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 3,
+                          "question_type": "multiple_option",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.answer_options.answer_option_34",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.answer_options.answer_option_34.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.answer_options.answer_option_35",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.answer_options.answer_option_35.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.answer_options.answer_option_36",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.answer_options.answer_option_36.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104323.attributes.display_conditions.display_condition_2025102010438",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_20251020104319",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -669,
+                                "updated_at_relative": -669
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104327",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 3,
+                          "question_type": "separator",
+                          "mandatory": null,
+                          "body": null,
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [],
+                          "matrix_rows": [],
+                          "display_conditions": []
+                        }
+                      },
+                      {
+                        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324",
+                        "@class": "Decidim::Forms::Question",
+                        "attributes": {
+                          "position": 4,
+                          "question_type": "sorting",
+                          "mandatory": null,
+                          "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.body",
+                          "description": null,
+                          "created_at_relative": -669,
+                          "updated_at_relative": -669,
+                          "max_choices": null,
+                          "max_characters": 0,
+                          "survey_answers_published_at_relative": null,
+                          "answer_options": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.answer_options.answer_option_37",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.answer_options.answer_option_37.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.answer_options.answer_option_38",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.answer_options.answer_option_38.attributes.body",
+                                "free_text": null
+                              }
+                            },
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.answer_options.answer_option_39",
+                              "@class": "Decidim::Forms::AnswerOption",
+                              "attributes": {
+                                "body": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.answer_options.answer_option_39.attributes.body",
+                                "free_text": null
+                              }
+                            }
+                          ],
+                          "matrix_rows": [],
+                          "display_conditions": [
+                            {
+                              "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.components.surveys_surveys.attributes.surveys.survey_2025102010433.attributes.questionnaire.questionnaire_2025102010435.attributes.questions.question_20251020104324.attributes.display_conditions.display_condition_2025102010439",
+                              "@class": "Decidim::Forms::DisplayCondition",
+                              "attributes": {
+                                "condition_question": "question_20251020104320",
+                                "answer_option": null,
+                                "condition_type": "answered",
+                                "condition_value": null,
+                                "mandatory": true,
+                                "created_at_relative": -669,
+                                "updated_at_relative": -669
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "hero_image": "wla0ykrqs00zytbxkzvyr0hpnxbxut09_20251020104134.jpeg",
+    "content_blocks": [
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_title",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "title",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 10,
+          "images_container": {},
+          "published_at_relative": -794
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_extra_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "extra_data",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -794
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_hero",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "hero",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "button_text",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_hero.settings.button_text"
+            },
+            {
+              "type": "button_url",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_hero.settings.button_url"
+            }
+          ],
+          "weight": 30,
+          "images_container": {
+            "background_image": null
+          },
+          "published_at_relative": -794
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_stats",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "stats",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [],
+          "weight": 40,
+          "images_container": {},
+          "published_at_relative": -794
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_highlighted_meetings",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "highlighted_meetings",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "order",
+              "value": "random"
+            },
+            {
+              "type": "show_space",
+              "value": true
+            }
+          ],
+          "weight": 50,
+          "images_container": {},
+          "published_at_relative": -794
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_group_homepage_highlighted_results",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "highlighted_results",
+          "scope_name": "participatory_process_group_homepage",
+          "settings": [
+            {
+              "type": "order",
+              "value": "random"
+            },
+            {
+              "type": "show_space",
+              "value": true
+            }
+          ],
+          "weight": 60,
+          "images_container": {},
+          "published_at_relative": -794
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_homepage_hero",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "hero",
+          "scope_name": "participatory_process_homepage",
+          "settings": [
+            {
+              "type": "button_text",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_homepage_hero.settings.button_text"
+            },
+            {
+              "type": "button_url",
+              "value": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_homepage_hero.settings.button_url"
+            }
+          ],
+          "weight": 10,
+          "images_container": {
+            "background_image": null
+          },
+          "published_at_relative": -793
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_homepage_main_data",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "main_data",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 20,
+          "images_container": {},
+          "published_at_relative": -793
+        }
+      },
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.content_blocks.participatory_process_homepage_metadata",
+        "@class": "Decidim::ContentBlock",
+        "attributes": {
+          "manifest_name": "metadata",
+          "scope_name": "participatory_process_homepage",
+          "settings": [],
+          "weight": 30,
+          "images_container": {},
+          "published_at_relative": -793
+        }
+      }
+    ],
+    "steps": [
+      {
+        "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.steps.participatory_process_step_2025102010411",
+        "@class": "Decidim::ParticipatoryProcessStep",
+        "attributes": {
+          "title": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.steps.participatory_process_step_2025102010411.attributes.title",
+          "description": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.attributes.steps.participatory_process_step_2025102010411.attributes.description",
+          "position": 0,
+          "start_date_relative": -2592794,
+          "end_date_relative": 5269606
+        }
+      }
+    ]
+  },
+  "name": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.metadata.name",
+  "description": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce.metadata.description",
+  "version": "v0.4",
+  "decidim_version": "0.30.1",
+  "community_templates_version": "0.0.1-rc4",
+  "id": "a4461f9d-a7cb-4a62-b84c-b2c16d99d1ce",
+  "default_locale": "en",
+  "author": "surveyvor",
+  "links": [],
+  "@class": "Decidim::ParticipatoryProcess",
+  "archived_at": null,
+  "updated_at": "2025-10-20 10:54:47 UTC",
+  "created_at": "2025-10-20 10:54:47 UTC"
+}
